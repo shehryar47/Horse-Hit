@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: a33333c16fc9bc84490d5c1373837a0f
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default.002
+    second: {fileID: 2100000, guid: d25ccfbc4a93cdc41a726ed96ff35c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ENV_MP_Iraq_Palm_Tree_01
+    second: {fileID: 2100000, guid: 9f61a24664e58cb4c8a42b9eb3014449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #25.002
+    second: {fileID: 2100000, guid: 395613731c2bda248adaed204a781295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Terrain
+    second: {fileID: 2100000, guid: 015e08246ca85834886f6af32c5ce8cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Start Texture
+    second: {fileID: 2100000, guid: afb0a7fc90d57d24c8ce8885a955debe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_gray
+    second: {fileID: 2100000, guid: 6e144c50eecadee47b794ba6dec81aa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_gray_tail
+    second: {fileID: 2100000, guid: 1c92bfe595c0ad549a1761ed22debc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horse_gray_tail.001
+    second: {fileID: 2100000, guid: 6996105354fe0944b882e2eb8ec6694d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jockey_body.002
+    second: {fileID: 2100000, guid: aedb5afdb93155a4aa5b17386e0be61d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17.001
+    second: {fileID: 2100000, guid: 4e3fd55e6028fa842930b995d6651678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19.001
+    second: {fileID: 2100000, guid: c340d1ed207cf5f499696f131b0fbaa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert24.001
+    second: {fileID: 2100000, guid: 82cde1f303d1ae940a73c63c8a31a6a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert25.001
+    second: {fileID: 2100000, guid: 6e978cdc45a23724e8834eeb43304b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert33.001
+    second: {fileID: 2100000, guid: 6508f9f1256bb4340a6e30d33ccc81dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand
+    second: {fileID: 2100000, guid: 9b3c725e3b361c6499e874a18ae3eb71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sandy track
+    second: {fileID: 2100000, guid: 132c31f28f68b934d8551f5d71218fcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white metal
+    second: {fileID: 2100000, guid: 6efdbe556196b2548b2ed9d04a6f0b27, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 98_artificial green grass texture-seamless_B
+    second: {fileID: 2800000, guid: f1d5e1c8969e5414b9ac6769ba96f0b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CactusDIF
+    second: {fileID: 2800000, guid: f9aedb5f7fa6c4a498fe2128ad57c461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ENV_MP_Iraq_palm_tree_01_D
+    second: {fileID: 2800000, guid: fae86588c29ae7e45997cdab4d72a1a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Horse_normals
+    second: {fileID: 2800000, guid: f60c0296a684e834ab75b949454cb0fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lord_Cricket_Stadium_Crowd
+    second: {fileID: 2800000, guid: 4bd0b4087ddebdd46b6800ad3a242618, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Lord_Stadium_Alpha_02
+    second: {fileID: 2800000, guid: d7eaa56f131501f4f97bba985e76ef00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_Terrain_Base_Color
+    second: {fileID: 2800000, guid: 6e9a4771627e0584b95ed92be08ec263, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture_Multipale02
+    second: {fileID: 2800000, guid: b2251c3f987eee549aac2773b76a9a30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_ConcreteBare0391_3_seamless_S
+    second: {fileID: 2800000, guid: f42582507c2f7514b92c7569723be718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_MetalBare0207_2_seamless_S
+    second: {fileID: 2800000, guid: 8512638b724c84d4f89e17fc94e16d24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_SoilSand0108_1_seamless_S
+    second: {fileID: 2800000, guid: 91c716783a674f84cb141a32bdbfa3cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_SoilSand0175_1_seamless_S
+    second: {fileID: 2800000, guid: a4e453a1d24c4424888a89ec909946f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White_texture
+    second: {fileID: 2800000, guid: f6e2d6d0b736f0848b127dc9b90a78da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horse_BAKED_brown22
+    second: {fileID: 2800000, guid: 10fe98055b65f36468431a328e5861c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jockey_body
+    second: {fileID: 2800000, guid: 3d473a4251cddd34d93d83850fcc4b4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m20
+    second: {fileID: 2800000, guid: 8b7effabb21d4ff40963da6110865d08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: starting_line_texture_1
+    second: {fileID: 2800000, guid: f31ac43974aaf864298ee8cb70462204, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yuccaDIF
+    second: {fileID: 2800000, guid: 8482912ccfb2dcf4783924535bad326d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

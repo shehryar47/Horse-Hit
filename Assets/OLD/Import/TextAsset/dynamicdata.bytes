@@ -1,0 +1,924 @@
+{
+	"runtime_vars": {
+		"runtimeDataVersion": 1,
+		"tapjoyButtonPlacementPremium": 1,
+		"tapjoyButtonPlacementCash": 1,
+		"maxWatchToEarnPerSession": 20,
+		"minBetweenEnergyRecharge": 10,
+		"oneUpgradeAtATime": false,
+		"dynamicDifficultyBump": 1.9,
+		"raceDealStartDate": "2016-12-18 00:00:00Z",
+		"raceDealEndDate": "2016-12-26 00:00:00Z",
+		"raceDealRaceName": "HOLIDAY",
+		"raceDealRaceId": "holiday",
+		"latestAppleVersion": 0,
+		"forceUpgradeAppleVersion": false,
+		"latestAndroidVersion": 0,
+		"forceUpgradeAndroidVersion": false,
+		"stakesCpuBaseAttr1": 5,
+		"stakesCpuBaseAttr2": 5,
+		"stakesCpuBaseAttr3": 5,
+		"stakesCpuBaseAttr4": 5,
+		"stakesBaseDifficultyMult": 5.0,
+		"shouldShowLowerPriceOffers": false,
+		"shouldUseNewMap": true,
+		"enableAdsForEnergy": true,
+		"enableAdsForMysteryBox": true,
+		"enableAdsForFoalToAdult": true,
+		"debugExperimentName": "offline",
+		"exchangeRateHorsehoesPerDollar": 0.2,
+		"exchangeRateCashPerDollar": 560.0,
+		"wagerBuyBackTimesPerDay": 2,
+		"wagerBuyBackPercentage": 0.5,
+		"wagerBuyBackCap": 150000,
+		"leaderboardExpirationAwardWaitMinutes": 60,
+		"allInBetsAllowed": false,
+		"allInBetsAllowedVersionTwo": true,
+		"allInBetCooldownInMinutes": 60,
+		"allInBetPremiumCost": 10,
+ 		"allInBetCap": 10000000,
+		"forceLevelFourUpgradesForMajors": true,
+		"forceLevelFiveUpgradesForMajors": true,
+		"interstitialsForNonPayers": false,
+		"missionsBetweenInterstitialAdMissions": 6,
+		"allowDoubleWinningsForPayers": false,
+		"allowDoubleWinningsForNonPayers": false,
+        "disableRaceSeason": false,
+		"raceSeasonLengthHours": 525
+	},
+	"iap_data": {
+		"com.thirdtime.derbyking.premium_a": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_a",
+			"premium": 100,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 499,
+			"title": "POCKET CHANGE HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold01",
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_b": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_b",
+			"premium": 200,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 999,
+			"title": "SPENDING MONEY HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold02",
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_c": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_c",
+			"premium": 480,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 1999,
+			"title": "PAY DAY HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold03",
+			"mostPopular": true,
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_d": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_d",
+			"premium": 750,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 2999,
+			"title": "CASH SAFE HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold04",
+			"greatDeal": true,
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_e": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_e",
+			"premium": 1325,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 4999,
+			"title": "TRUCKLOAD HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold05",
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_f": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_f",
+			"premium": 3200,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 9999,
+			"title": "BANK VAULT HORSESHOE PACK",
+			"description": "",
+			"sprite": "Gold06",
+			"bestValue": true,
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.premium_lowprice": {
+			"category": "premium",
+			"productId": "com.thirdtime.derbyking.premium_lowprice",
+			"premium": 40,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 199,
+			"title": "STARTING OUT HORSESHOES PACK",
+			"description": "",
+			"sprite": "Gold01",
+			"tags": [ "premium" ]
+		},
+		"com.thirdtime.derbyking.cash_a": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_a",
+			"premium": 0,
+			"cash": 280000,
+			"cashByTier": [280000,280000,280000,280000,280000,280000,280000,280000,280000,280000],
+			"energy": 0,
+			"costUsd": 499,
+			"title": "POCKET CHANGE BUCKS PACK",
+			"description": "",
+			"sprite": "Cash01",
+			"tags": [ "cash" ]
+		},
+		"com.thirdtime.derbyking.cash_b": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_b",
+			"premium": 0,
+			"cash": 560000,
+			"energy": 0,
+			"costUsd": 999,
+			"title": "SPENDING MONEY BUCKS PACK",
+			"description": "",
+			"sprite": "Cash02",
+			"tags": [ "cash" ],
+			"mostPopular": true
+		},
+		"com.thirdtime.derbyking.cash_c": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_c",
+			"premium": 0,
+			"cash": 1340000,
+			"energy": 0,
+			"costUsd": 1999,
+			"title": "PAY DAY BUCKS PACK",
+			"description": "",
+			"sprite": "Cash03",
+			"tags": [ "cash" ]
+		},
+		"com.thirdtime.derbyking.cash_d": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_d",
+			"premium": 0,
+			"cash": 2100000,
+			"energy": 0,
+			"costUsd": 2999,
+			"title": "FULL SAFE BUCKS PACK",
+			"description": "",
+			"sprite": "Cash04",
+			"tags": [ "cash" ],
+			"greatDeal": true
+		},
+		"com.thirdtime.derbyking.cash_e": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_e",
+			"premium": 0,
+			"cash": 3750000,
+			"energy": 0,
+			"costUsd": 4999,
+			"title": "TRUCKLOAD BUCKS PACK",
+			"description": "",
+			"sprite": "Cash05",
+			"tags": [ "cash" ]
+		},
+		"com.thirdtime.derbyking.cash_f": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_f",
+			"premium": 0,
+			"cash": 9000000,
+			"energy": 0,
+			"costUsd": 9999,
+			"title": "BANK VAULT BUCKS PACK",
+			"description": "",
+			"sprite": "Cash06",
+			"tags": [ "cash" ],
+			"bestValue": true
+		},
+		"com.thirdtime.derbyking.cash_lowprice": {
+			"category": "cash",
+			"productId": "com.thirdtime.derbyking.cash_lowprice",
+			"premium": 0,
+			"cash": 112000,
+			"energy": 0,
+			"costUsd": 199,
+			"title": "STARTING OUT CASH PACK",
+			"description": "",
+			"sprite": "Cash01",
+			"tags": [ "cash" ]
+		},
+		"com.thirdtime.derbyking.special_a": {
+			"category": "limited_bundle",
+			"productId": "com.thirdtime.derbyking.special_a",
+			"premium": 50,
+			"cash": 200000,
+			"energy": 0,
+			"costUsd": 399,
+			"title": "Limited Time Special 25%",
+			"description": "",
+			"sprite": "Cash02,Gold02",
+			"tags": [ "limited_bundle" ]
+		},
+		"com.thirdtime.derbyking.special_b": {
+			"category": "limited_bundle",
+			"productId": "com.thirdtime.derbyking.special_b",
+			"premium": 135,
+			"cash": 400000,
+			"energy": 0,
+			"costUsd": 699,
+			"title": "Limited Time Special 50%",
+			"description": "",
+			"sprite": "Cash02,Gold04",
+			"greatDeal": true,
+			"tags": [ "limited_bundle" ]
+		},
+		"com.thirdtime.derbyking.special_c": {
+			"category": "limited_bundle",
+			"productId": "com.thirdtime.derbyking.special_c",
+			"premium": 200,
+			"cash": 1500000,
+			"energy": 0,
+			"costUsd": 1199,
+			"title": "Limited Time Special 67%",
+			"description": "",
+			"sprite": "Cash03,Gold06",
+			"bestValue": true,
+			"tags": [ "limited_bundle" ]
+		},
+		"com.thirdtime.derbyking.starter_a": {
+			"category": "starter_bundle",
+			"productId": "com.thirdtime.derbyking.starter_a",
+			"premium": 0,
+			"cash": 280000,
+			"energy": 0,
+			"costUsd": 499,
+			"title": "Basic Starter Pack",
+			"description": "",
+			"sprite": "Cash02",
+			"tags": [ "starter_bundle" ]
+		},
+		"com.thirdtime.derbyking.starter_b": {
+			"category": "starter_bundle",
+			"productId": "com.thirdtime.derbyking.starter_b",
+			"premium": 0,
+			"cash": 370000,
+			"energy": 0,
+			"costUsd": 599,
+			"title": "Pro Starter Pack",
+			"description": "",
+			"sprite": "Cash03",
+			"tags": [ "starter_bundle" ]
+		},
+		"com.thirdtime.derbyking.starter_c": {
+			"category": "starter_bundle",
+			"productId": "com.thirdtime.derbyking.starter_c",
+			"premium": 0,
+			"cash": 900000,
+			"energy": 0,
+			"costUsd": 799,
+			"title": "The King Starter Pack",
+			"description": "",
+			"sprite": "Cash05",
+			"tags": [ "starter_bundle" ]
+		},
+		"com.thirdtime.derbyking.energy_a": {
+			"category": "energy",
+			"productId": "com.thirdtime.derbyking.energy_a",
+			"premium": 0,
+			"cash": 0,
+			"energy": 10,
+			"costUsd": 99,
+			"title": "Energy Refill",
+			"description": "",
+			"sprite": "",
+			"tags": [ "energy" ]
+		},
+		"com.thirdtime.derbyking.energy_bundle_a": {
+			"category": "energy_bundle",
+			"productId": "com.thirdtime.derbyking.energy_bundle_a",
+			"premium": 10,
+			"cash": 0,
+			"energy": 10,
+			"costUsd": 99,
+			"title": "Energy Refill",
+			"description": "",
+			"sprite": "",
+			"tags": [ "energy_bundle" ]
+		},
+		"com.thirdtime.derbyking.premium_color_a": {
+			"category": "horse_texture",
+			"productId": "com.thirdtime.derbyking.premium_color_a",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"title": "ZEBRA STRIPES",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_texture" ]
+		},
+		"com.thirdtime.derbyking.premium_color_b": {
+			"category": "horse_texture",
+			"productId": "com.thirdtime.derbyking.premium_color_b",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"title": "BROWN PATCHES",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_texture" ]
+		},
+		"com.thirdtime.derbyking.premium_color_c": {
+			"category": "horse_texture",
+			"productId": "com.thirdtime.derbyking.premium_color_c",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"title": "SPOTTED",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_texture" ]
+		},
+		"com.thirdtime.derbyking.premium_color_d": {
+			"category": "horse_texture",
+			"productId": "com.thirdtime.derbyking.premium_color_d",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"title": "TIGER STRIPES",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_texture" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_a": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_a",
+			"premium": 5,
+			"cash": 140000,
+			"energy": 0,
+			"costUsd": 499,
+			"title": "POCKET CHANGE BUNDLE",
+			"description": "",
+			"sprite": "Cash01,Gold01",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_b": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_b",
+			"premium": 10,
+			"cash": 280000,
+			"energy": 0,
+			"costUsd": 999,
+			"title": "SPENDING MONEY BUNDLE",
+			"description": "",
+			"sprite": "Cash02,Gold02",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_c": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_c",
+			"premium": 20,
+			"cash": 670000,
+			"energy": 0,
+			"costUsd": 1999,
+			"title": "PAY DAY BUNDLE",
+			"description": "",
+			"sprite": "Cash03,Gold03",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_d": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_d",
+			"premium": 30,
+			"cash": 1050000,
+			"energy": 0,
+			"costUsd": 2999,
+			"title": "FULL SAFE BUNDLE",
+			"description": "",
+			"sprite": "Cash04,Gold04",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_e": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_e",
+			"premium": 50,
+			"cash": 1875000,
+			"energy": 0,
+			"costUsd": 4999,
+			"title": "TRUCKLOAD BUNDLE",
+			"description": "",
+			"sprite": "Cash05,Gold05",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.targeted_bundle_f": {
+			"category": "targeted_bundle",
+			"productId": "com.thirdtime.derbyking.targeted_bundle_f",
+			"premium": 100,
+			"cash": 4500000,
+			"energy": 0,
+			"costUsd": 9999,
+			"title": "BANK VAULT BUNDLE",
+			"description": "",
+			"sprite": "Cash06,Gold06",
+			"tags": [ "targeted_bundle" ]
+		},
+		"com.thirdtime.derbyking.premium_spin": {
+			"category": "spin",
+			"productId": "com.thirdtime.derbyking.premium_spin",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"spins": 1,
+			"title": "PREMIUM SPIN",
+			"description": "",
+			"sprite": "",
+			"tags": [ "spin" ]
+		},
+		"com.thirdtime.derbyking.jimbo_99": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_99",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 99,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_199": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_199",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 199,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_299": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_299",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 299,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_399": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_399",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 399,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_499": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_499",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 499,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_999": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_999",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 999,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_1999": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_1999",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 1999,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		},
+		"com.thirdtime.derbyking.jimbo_4999": {
+			"category": "horse_trade",
+			"productId": "com.thirdtime.derbyking.jimbo_4999",
+			"premium": 0,
+			"cash": 0,
+			"energy": 0,
+			"costUsd": 4999,
+			"title": "One Time Horse Trade",
+			"description": "",
+			"sprite": "",
+			"tags": [ "horse_trade" ]
+		}
+	},
+	"upgrade_cost_overrides": { },
+	"upgrade_time_overrides" : { },
+	"missions" : {
+		"lines":[
+			"1~circuit~1~Win the 1st Circuit Race to advance.~11200~1~100~100~100~100~sprint~clear~cash~dirt~normal",
+			"1~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~70000~2~116~110~102~110~full~rainy~cash~dirt~normal"
+		]
+	},
+	"premium_horses": {
+		"Horse_Cow_Black": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_99",
+			"pctOff": 69
+		},
+		"Horse_Cow_Brown": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_99",
+			"pctOff": 69
+		},
+		"Horse_Okapi": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 38
+		},
+		"Horse_Spotted": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_99",
+			"pctOff": 69
+		},
+		"Horse_Tiger": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 38
+		},
+		"Horse_Zebra_Brown": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_99",
+			"pctOff": 69
+		},
+		"Horse_Zebra_Panda": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_99",
+			"pctOff": 69
+		},
+		"Horse_Zebra_White": {
+			"rarity": 300,
+			"unlockCost": 0,
+			"costCash": 0,
+			"costPremium": 65,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 38
+		},
+		"Horse_Premium_BlackWhiteSpots": {
+			"rarity": 250,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 100,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 60
+		},
+		"Horse_Premium_BrownSpots": {
+			"rarity": 250,
+			"unlockCost": 4,
+			"costCash": 280000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 60
+		},
+		"Horse_Premium_BrownWhite": {
+			"rarity": 250,
+			"unlockCost": 2,
+			"costCash": 280000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 60
+		},
+		"Horse_Premium_GrayWhiteSpots": {
+			"rarity": 250,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 100,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_199",
+			"pctOff": 60
+		},
+		"Horse_Premium_Hairy": {
+			"rarity": 150,
+			"unlockCost": 2,
+			"costCash": 448000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_299",
+			"pctOff": 63
+		},
+		"Horse_Premium_Spatter": {
+			"rarity": 150,
+			"unlockCost": 2,
+			"costCash": 0,
+			"costPremium": 160,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_299",
+			"pctOff": 63
+		},
+		"Horse_Premium_Alligator": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 560000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_BlackSnakeskin": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 200,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_Camo": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 200,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_CamoSnow": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 560000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_GrayBackSpots": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 560000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_Heart": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 200,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_Khaleesi": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 0,
+			"costPremium": 200,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_TigerTop": {
+			"rarity": 80,
+			"unlockCost": 4,
+			"costCash": 560000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_BrownBlackOdd": {
+			"rarity": 40,
+			"unlockCost": 2,
+			"costCash": 0,
+			"costPremium": 300,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_499",
+			"pctOff": 67
+		},
+		"Horse_Premium_CamoSliced": {
+			"rarity": 40,
+			"unlockCost": 5,
+			"costCash": 840000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_499",
+			"pctOff": 67
+		},
+		"Horse_Premium_CamoSnowTop": {
+			"rarity": 40,
+			"unlockCost": 5,
+			"costCash": 0,
+			"costPremium": 300,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_499",
+			"pctOff": 67
+		},
+		"Horse_Premium_WhiteCamo": {
+			"rarity": 40,
+			"unlockCost": 4,
+			"costCash": 560000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_399",
+			"pctOff": 60
+		},
+		"Horse_Premium_Bengal": {
+			"rarity": 20,
+			"unlockCost": 2,
+			"costCash": 0,
+			"costPremium": 400,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_499",
+			"pctOff": 75
+		},
+		"Horse_Premium_Rhino": {
+			"rarity": 20,
+			"unlockCost": 6,
+			"costCash": 1120000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_499",
+			"pctOff": 75
+		},
+		"Horse_Premium_Giraffe": {
+			"rarity": 15,
+			"unlockCost": 6,
+			"costCash": 1680000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_999",
+			"pctOff": 67
+		},
+		"Horse_Premium_Cheetah": {
+			"rarity": 10,
+			"unlockCost": 6,
+			"costCash": 2240000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 50
+		},
+		"Horse_Premium_RainbowZebra": {
+			"rarity": 10,
+			"unlockCost": 6,
+			"costCash": 0,
+			"costPremium": 800,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 50
+		},
+		"Horse_Premium_ZebraWatercolor": {
+			"rarity": 10,
+			"unlockCost": 6,
+			"costCash": 2240000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 50
+		},
+		"Horse_Premium_SnowLeopard": {
+			"rarity": 7,
+			"unlockCost": 7,
+			"costCash": 3360000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 67
+		},
+		"Horse_Premium_Watercolor": {
+			"rarity": 7,
+			"unlockCost": 7,
+			"costCash": 0,
+			"costPremium": 1300,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 69
+		},
+		"Horse_Premium_FunkyZebra": {
+			"rarity": 6,
+			"unlockCost": 7,
+			"costCash": 0,
+			"costPremium": 1500,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 73
+		},
+		"Horse_Premium_LeopardSmall": {
+			"rarity": 6,
+			"unlockCost": 7,
+			"costCash": 4200000,
+			"costPremium": 0,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 73
+		},
+		"Horse_Premium_GrayWhiteSliced": {
+			"rarity": 5,
+			"unlockCost": 8,
+			"costCash": 0,
+			"costPremium": 1600,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 75
+		},
+		"Horse_Premium_Snakeskin": {
+			"rarity": 5,
+			"unlockCost": 8,
+			"costCash": 0,
+			"costPremium": 1800,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 78
+		},
+		"Horse_Premium_Suits": {
+			"rarity": 2,
+			"unlockCost": 10,
+			"costCash": 0,
+			"costPremium": 2000,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_1999",
+			"pctOff": 80
+		},
+		"Horse_Premium_Jewels": {
+			"rarity": 1,
+			"unlockCost": 10,
+			"costCash": 0,
+			"costPremium": 4000,
+			"tradeSku": "com.thirdtime.derbyking.jimbo_4999",
+			"pctOff": 75
+		}
+	},
+	"active_bundles": {
+		"bundle_ids": [  ]
+	},
+	"purchase_behaviour": {
+		"confirm_purchases": true,
+		"show_free_horseshoes_button": true
+	},
+	"wheel_prizes": {
+		"free_prizes": [
+			{ "type": "cash", "amount": 280000, "rarity": 10 },
+			{ "type": "premium", "amount": 5, "rarity": 300 },
+			{ "type": "cash", "amount": 500, "rarity": 300 },
+			{ "type": "cash", "amount": 2000, "rarity": 250 },
+			{ "type": "premium", "amount": 10, "rarity": 50 },
+			{ "type": "cash", "amount": 10000, "rarity": 150 },
+			{ "type": "premium", "amount": 3, "rarity": 100 },
+			{ "type": "cash", "amount": 50000, "rarity": 100 },
+			{ "type": "premium", "amount": 15, "rarity": 10 },
+			{ "type": "cash", "amount": 25000, "rarity": 250 },
+			{ "type": "cash", "amount": 1000, "rarity": 300 },
+			{ "type": "premium", "amount": 3, "rarity": 100 },
+			{ "type": "cash", "amount": 5000, "rarity": 300 },
+			{ "type": "premium", "amount": 5, "rarity": 50 }
+		],
+		"premium_prizes": [
+			{ "type": "cash", "amount": 1000000, "rarity": 10 },
+			{ "type": "premium", "amount": 50, "rarity": 300 },
+			{ "type": "cash", "amount": 56000, "rarity": 300 },
+			{ "type": "cash", "amount": 65000, "rarity": 250 },
+			{ "type": "premium", "amount": 100, "rarity": 50 },
+			{ "type": "cash", "amount": 100000, "rarity": 150 },
+			{ "type": "premium", "amount": 30, "rarity": 100 },
+			{ "type": "cash", "amount": 500000, "rarity": 100 },
+			{ "type": "premium", "amount": 150, "rarity": 10 },
+			{ "type": "cash", "amount": 250000, "rarity": 250 },
+			{ "type": "cash", "amount": 75000, "rarity": 300 },
+			{ "type": "premium", "amount": 30, "rarity": 100 },
+			{ "type": "cash", "amount": 80000, "rarity": 300 },
+			{ "type": "premium", "amount": 50, "rarity": 50 }
+		]
+	}
+}

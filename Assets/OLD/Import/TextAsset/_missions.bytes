@@ -1,0 +1,760 @@
+1~ftue~1~Learn how to race in a front stretch sprint.~500~0~100~100~100~100~sprint~clear~cash~dirt~normal
+1~circuit~1~Win the 1st Circuit Race to advance.~11200~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~circuit~2~Win the 2nd Circuit Race to advance.~11450~1~100~100~100~100~sprint~sunset~cash~dirt~normal
+1~circuit~3~Win the 3rd Circuit Race to advance.~11650~1~104~100~100~100~sprint~clear~cash~dirt~normal
+1~circuit~4~Win the 4th Circuit Race to advance.~11875~1~104~100~100~100~sprint~clear~cash~dirt~normal
+1~circuit~5~Win the 5th Circuit Race to advance.~12150~1~104~100~100~100~sprint~sunset~cash~dirt~normal
+1~circuit~6~Win the 6th Circuit Race to advance.~12375~1~104~100~100~110~sprint~clear~cash~dirt~normal
+1~circuit~7~Win the 7th Circuit Race to advance.~12600~1~108~100~100~110~sprint~clear~cash~dirt~normal
+1~circuit~8~Win the 8th Circuit Race to advance.~12825~1~108~110~100~110~sprint~sunset~cash~dirt~normal
+1~circuit~9~Win the 9th Circuit Race to advance.~13100~1~108~110~102~100~sprint~clear~cash~dirt~normal
+1~circuit~10~Win the 10th Circuit Race to advance.~13350~1~116~110~102~100~sprint~sunset~cash~dirt~normal
+1~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~70000~2~116~110~102~110~full~rainy~cash~dirt~normal
+1~circuit~11~Win the 11th Circuit Race to advance.~13900~1~120~110~100~100~sprint~rainy~cash~dirt~normal
+1~circuit~12~Win the 12th Circuit Race to advance.~14150~1~122~110~100~112~sprint~sunset~cash~dirt~normal
+1~circuit~13~Win the 13th Circuit Race to advance.~14400~1~126~110~100~112~sprint~clear~cash~dirt~normal
+1~circuit~14~Win the 14th Circuit Race to advance.~14675~1~128~110~100~100~sprint~clear~cash~dirt~normal
+1~circuit~15~Win the 15th Circuit Race to advance.~14900~1~130~110~100~112~sprint~clear~cash~dirt~normal
+1~circuit~16~Win the 16th Circuit Race to advance.~15400~1~135~110~100~112~sprint~sunset~cash~dirt~normal
+1~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~76400~2~135~125~110~112~full~clear~cash~dirt~normal
+1~circuit~17~Win the 17th Circuit Race to advance.~15800~1~139~125~100~112~sprint~sunset~cash~dirt~normal
+1~circuit~18~Win the 18th Circuit Race to advance.~16000~1~141~125~100~100~sprint~clear~cash~dirt~normal
+1~circuit~19~Win the 19th Circuit Race to advance.~16300~1~145~125~100~112~sprint~sunset~cash~dirt~normal
+1~circuit~20~Win the 20th Circuit Race to advance.~16525~1~151~125~100~100~sprint~clear~cash~dirt~normal
+1~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~82750~2~153~150~117~115~full~sunset~cash~dirt~normal
+1~circuit~21~Win the 21st Circuit Race to advance.~17200~1~155~150~100~100~sprint~clear~cash~dirt~normal
+1~circuit~22~Win the 22nd Circuit Race to advance.~17475~1~159~150~100~100~sprint~clear~cash~dirt~normal
+1~circuit~23~Win the 23rd Circuit Race to advance.~17700~1~161~150~100~100~sprint~clear~cash~dirt~normal
+1~circuit~24~Win the 24th Circuit Race to advance.~18000~1~165~150~100~100~sprint~sunset~cash~dirt~normal
+1~circuit~25~Win the 25th Circuit Race to advance.~18250~1~169~150~100~100~sprint~rainy~cash~dirt~normal
+1~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~89000~2~175~175~119~119~full~sunset~cash~dirt~normal
+1~circuit~26~Win the 26th Circuit Race to advance.~18925~1~180~175~100~119~sprint~clear~cash~dirt~normal
+1~circuit~27~Win the 27th Circuit Race to advance.~19200~1~184~175~100~100~sprint~clear~cash~dirt~normal
+1~circuit~28~Win the 28th Circuit Race to advance.~19500~1~187~175~125~119~sprint~sunset~cash~dirt~normal
+1~circuit~29~Win the 29th Circuit Race to advance.~19750~1~192~175~125~119~sprint~rainy~cash~dirt~normal
+1~circuit~30~Win the 30th and final Circuit Race!~20000~1~196~175~125~125~sprint~sunset~cash~dirt~normal
+1~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~100000~2~200~200~125~125~full~clear~cash~dirt~normal
+1~onlinestakes~1~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~2~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~3~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~sunset~cash~dirt~normal
+1~onlinestakes~4~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~5~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~6~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~rainy~cash~dirt~normal
+1~onlinestakes~7~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~8~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~sunset~cash~dirt~normal
+1~onlinestakes~9~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~10~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~rainy~cash~dirt~normal
+1~onlinestakes~11~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~sunset~cash~dirt~normal
+1~onlinestakes~12~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~clear~cash~dirt~normal
+1~onlinestakes~13~Complete the Tier 1 Warmup Race.~10000~1~100~100~100~100~sprint~sunset~cash~dirt~normal
+2~circuit~1~Win the 1st Circuit Race to advance.~14000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~circuit~2~Win the 2nd Circuit Race to advance.~14313~1~200~200~100~100~sprint~sunset~cash~dirt~normal
+2~circuit~3~Win the 3rd Circuit Race to advance.~14563~1~204~200~100~100~sprint~clear~cash~dirt~normal
+2~circuit~4~Win the 4th Circuit Race to advance.~14844~1~204~200~100~100~sprint~clear~cash~dirt~normal
+2~circuit~5~Win the 5th Circuit Race to advance.~15188~1~204~200~100~100~sprint~sunset~cash~dirt~normal
+2~circuit~6~Win the 6th Circuit Race to advance.~15469~1~204~200~100~210~sprint~clear~cash~dirt~normal
+2~circuit~7~Win the 7th Circuit Race to advance.~15750~1~208~200~100~210~sprint~clear~cash~dirt~normal
+2~circuit~8~Win the 8th Circuit Race to advance.~16031~1~208~210~100~210~sprint~sunset~cash~dirt~normal
+2~circuit~9~Win the 9th Circuit Race to advance.~16375~1~208~210~202~100~sprint~clear~cash~dirt~normal
+2~circuit~10~Win the 10th Circuit Race to advance.~16688~1~216~210~202~100~sprint~sunset~cash~dirt~normal
+2~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~87500~2~216~210~203~210~full~rainy~cash~dirt~normal
+2~circuit~11~Win the 11th Circuit Race to advance.~17375~1~220~210~100~100~sprint~rainy~cash~dirt~normal
+2~circuit~12~Win the 12th Circuit Race to advance.~17688~1~222~210~100~212~sprint~sunset~cash~dirt~normal
+2~circuit~13~Win the 13th Circuit Race to advance.~18000~1~226~210~100~212~sprint~clear~cash~dirt~normal
+2~circuit~14~Win the 14th Circuit Race to advance.~18344~1~228~210~100~100~sprint~clear~cash~dirt~normal
+2~circuit~15~Win the 15th Circuit Race to advance.~18625~1~230~210~100~212~sprint~clear~cash~dirt~normal
+2~circuit~16~Win the 16th Circuit Race to advance.~19250~1~235~210~100~212~sprint~sunset~cash~dirt~normal
+2~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~95500~2~235~225~210~212~full~clear~cash~dirt~normal
+2~circuit~17~Win the 17th Circuit Race to advance.~19750~1~239~225~100~212~sprint~sunset~cash~dirt~normal
+2~circuit~18~Win the 18th Circuit Race to advance.~20000~1~241~225~100~100~sprint~clear~cash~dirt~normal
+2~circuit~19~Win the 19th Circuit Race to advance.~20375~1~245~225~100~212~sprint~sunset~cash~dirt~normal
+2~circuit~20~Win the 20th Circuit Race to advance.~20656~1~251~225~100~100~sprint~clear~cash~dirt~normal
+2~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~103438~2~253~250~217~215~full~sunset~cash~dirt~normal
+2~circuit~21~Win the 21st Circuit Race to advance.~21500~1~255~250~100~100~sprint~clear~cash~dirt~normal
+2~circuit~22~Win the 22nd Circuit Race to advance.~21844~1~259~250~100~100~sprint~clear~cash~dirt~normal
+2~circuit~23~Win the 23rd Circuit Race to advance.~22125~1~261~250~100~100~sprint~clear~cash~dirt~normal
+2~circuit~24~Win the 24th Circuit Race to advance.~22500~1~265~250~100~100~sprint~sunset~cash~dirt~normal
+2~circuit~25~Win the 25th Circuit Race to advance.~22813~1~269~250~100~100~sprint~rainy~cash~dirt~normal
+2~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~111250~2~275~275~219~219~full~sunset~cash~dirt~normal
+2~circuit~26~Win the 26th Circuit Race to advance.~23656~1~280~275~100~219~sprint~clear~cash~dirt~normal
+2~circuit~27~Win the 27th Circuit Race to advance.~24000~1~284~275~100~100~sprint~clear~cash~dirt~normal
+2~circuit~28~Win the 28th Circuit Race to advance.~24375~1~287~275~225~219~sprint~sunset~cash~dirt~normal
+2~circuit~29~Win the 29th Circuit Race to advance.~24688~1~292~275~225~219~sprint~rainy~cash~dirt~normal
+2~circuit~30~Win the 30th and final Circuit Race!~25000~1~296~275~225~225~sprint~sunset~cash~dirt~normal
+2~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~276531~2~300~300~225~225~full~clear~cash~dirt~normal
+2~onlinestakes~1~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~2~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~3~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~sunset~cash~dirt~normal
+2~onlinestakes~4~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~5~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~6~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~rainy~cash~dirt~normal
+2~onlinestakes~7~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~8~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~sunset~cash~dirt~normal
+2~onlinestakes~9~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~10~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~rainy~cash~dirt~normal
+2~onlinestakes~11~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~sunset~cash~dirt~normal
+2~onlinestakes~12~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~clear~cash~dirt~normal
+2~onlinestakes~13~Complete the Tier 2 Warmup Race.~15000~1~200~200~100~100~sprint~sunset~cash~dirt~normal
+3~circuit~1~Win the 1st Circuit Race to advance.~17500~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~circuit~2~Win the 2nd Circuit Race to advance.~17891~1~300~300~200~200~sprint~sunset~cash~dirt~normal
+3~circuit~3~Win the 3rd Circuit Race to advance.~18204~1~304~300~200~200~sprint~clear~cash~dirt~normal
+3~circuit~4~Win the 4th Circuit Race to advance.~18555~1~304~300~200~200~sprint~clear~cash~dirt~normal
+3~circuit~5~Win the 5th Circuit Race to advance.~18985~1~304~300~200~200~sprint~sunset~cash~dirt~normal
+3~circuit~6~Win the 6th Circuit Race to advance.~19336~1~304~300~200~310~sprint~clear~cash~dirt~normal
+3~circuit~7~Win the 7th Circuit Race to advance.~19688~1~308~300~200~310~sprint~clear~cash~dirt~normal
+3~circuit~8~Win the 8th Circuit Race to advance.~20039~1~308~310~200~310~sprint~sunset~cash~dirt~normal
+3~circuit~9~Win the 9th Circuit Race to advance.~20469~1~308~310~302~200~sprint~clear~cash~dirt~normal
+3~circuit~10~Win the 10th Circuit Race to advance.~20860~1~316~310~302~200~sprint~sunset~cash~dirt~normal
+3~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~109375~2~316~310~303~310~full~rainy~cash~dirt~normal
+3~circuit~11~Win the 11th Circuit Race to advance.~21719~1~320~310~200~200~sprint~rainy~cash~dirt~normal
+3~circuit~12~Win the 12th Circuit Race to advance.~22110~1~322~310~200~312~sprint~sunset~cash~dirt~normal
+3~circuit~13~Win the 13th Circuit Race to advance.~22500~1~326~310~200~312~sprint~clear~cash~dirt~normal
+3~circuit~14~Win the 14th Circuit Race to advance.~22930~1~328~310~200~200~sprint~clear~cash~dirt~normal
+3~circuit~15~Win the 15th Circuit Race to advance.~23281~1~330~310~200~312~sprint~clear~cash~dirt~normal
+3~circuit~16~Win the 16th Circuit Race to advance.~24063~1~335~310~200~312~sprint~sunset~cash~dirt~normal
+3~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~119375~2~335~325~310~312~full~clear~cash~dirt~normal
+3~circuit~17~Win the 17th Circuit Race to advance.~24688~1~339~325~200~312~sprint~sunset~cash~dirt~normal
+3~circuit~18~Win the 18th Circuit Race to advance.~25000~1~341~325~200~200~sprint~clear~cash~dirt~normal
+3~circuit~19~Win the 19th Circuit Race to advance.~25469~1~345~325~200~312~sprint~sunset~cash~dirt~normal
+3~circuit~20~Win the 20th Circuit Race to advance.~25820~1~351~325~200~200~sprint~clear~cash~dirt~normal
+3~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~129298~2~353~350~317~315~full~sunset~cash~dirt~normal
+3~circuit~21~Win the 21st Circuit Race to advance.~26875~1~355~350~200~200~sprint~clear~cash~dirt~normal
+3~circuit~22~Win the 22nd Circuit Race to advance.~27305~1~359~350~200~200~sprint~clear~cash~dirt~normal
+3~circuit~23~Win the 23rd Circuit Race to advance.~27656~1~361~350~200~200~sprint~clear~cash~dirt~normal
+3~circuit~24~Win the 24th Circuit Race to advance.~28125~1~365~350~200~200~sprint~sunset~cash~dirt~normal
+3~circuit~25~Win the 25th Circuit Race to advance.~28516~1~369~350~200~200~sprint~rainy~cash~dirt~normal
+3~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~139063~2~375~375~319~319~full~sunset~cash~dirt~normal
+3~circuit~26~Win the 26th Circuit Race to advance.~29570~1~380~375~200~319~sprint~clear~cash~dirt~normal
+3~circuit~27~Win the 27th Circuit Race to advance.~30000~1~384~375~200~200~sprint~clear~cash~dirt~normal
+3~circuit~28~Win the 28th Circuit Race to advance.~30469~1~387~375~325~319~sprint~sunset~cash~dirt~normal
+3~circuit~29~Win the 29th Circuit Race to advance.~30860~1~392~375~325~319~sprint~rainy~cash~dirt~normal
+3~circuit~30~Win the 30th and final Circuit Race!~31250~1~396~375~325~325~sprint~sunset~cash~dirt~normal
+3~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~345664~2~400~400~325~325~full~clear~cash~dirt~normal
+3~onlinestakes~1~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~2~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~3~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~sunset~cash~dirt~normal
+3~onlinestakes~4~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~5~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~6~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~rainy~cash~dirt~normal
+3~onlinestakes~7~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~8~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~sunset~cash~dirt~normal
+3~onlinestakes~9~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~10~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~rainy~cash~dirt~normal
+3~onlinestakes~11~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~sunset~cash~dirt~normal
+3~onlinestakes~12~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~clear~cash~dirt~normal
+3~onlinestakes~13~Complete the Tier 3 Warmup Race.~20000~1~300~300~200~200~sprint~sunset~cash~dirt~normal
+4~circuit~1~Win the 1st Circuit Race to advance.~21875~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~circuit~2~Win the 2nd Circuit Race to advance.~22364~1~400~400~300~300~sprint~sunset~cash~dirt~normal
+4~circuit~3~Win the 3rd Circuit Race to advance.~22755~1~404~400~300~300~sprint~clear~cash~dirt~normal
+4~circuit~4~Win the 4th Circuit Race to advance.~23194~1~404~400~300~300~sprint~clear~cash~dirt~normal
+4~circuit~5~Win the 5th Circuit Race to advance.~23731~1~404~400~300~300~sprint~sunset~cash~dirt~normal
+4~circuit~6~Win the 6th Circuit Race to advance.~24170~1~404~400~300~410~sprint~clear~cash~dirt~normal
+4~circuit~7~Win the 7th Circuit Race to advance.~24610~1~408~400~300~410~sprint~clear~cash~dirt~normal
+4~circuit~8~Win the 8th Circuit Race to advance.~25049~1~408~410~300~410~sprint~sunset~cash~dirt~normal
+4~circuit~9~Win the 9th Circuit Race to advance.~25586~1~408~410~402~300~sprint~clear~cash~dirt~normal
+4~circuit~10~Win the 10th Circuit Race to advance.~26075~1~416~410~402~300~sprint~sunset~cash~dirt~normal
+4~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~136719~2~416~410~403~410~full~rainy~cash~dirt~normal
+4~circuit~11~Win the 11th Circuit Race to advance.~27149~1~420~410~300~300~sprint~rainy~cash~dirt~normal
+4~circuit~12~Win the 12th Circuit Race to advance.~27638~1~422~410~300~412~sprint~sunset~cash~dirt~normal
+4~circuit~13~Win the 13th Circuit Race to advance.~28125~1~426~410~300~412~sprint~clear~cash~dirt~normal
+4~circuit~14~Win the 14th Circuit Race to advance.~28663~1~428~410~300~300~sprint~clear~cash~dirt~normal
+4~circuit~15~Win the 15th Circuit Race to advance.~29101~1~430~410~300~412~sprint~clear~cash~dirt~normal
+4~circuit~16~Win the 16th Circuit Race to advance.~30079~1~435~410~300~412~sprint~sunset~cash~dirt~normal
+4~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~149219~2~435~425~410~412~full~clear~cash~dirt~normal
+4~circuit~17~Win the 17th Circuit Race to advance.~30860~1~439~425~300~412~sprint~sunset~cash~dirt~normal
+4~circuit~18~Win the 18th Circuit Race to advance.~31250~1~441~425~300~300~sprint~clear~cash~dirt~normal
+4~circuit~19~Win the 19th Circuit Race to advance.~31836~1~445~425~300~412~sprint~sunset~cash~dirt~normal
+4~circuit~20~Win the 20th Circuit Race to advance.~32275~1~451~425~300~300~sprint~clear~cash~dirt~normal
+4~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~161623~2~453~450~417~415~full~sunset~cash~dirt~normal
+4~circuit~21~Win the 21st Circuit Race to advance.~33594~1~455~450~300~300~sprint~clear~cash~dirt~normal
+4~circuit~22~Win the 22nd Circuit Race to advance.~34131~1~459~450~300~300~sprint~clear~cash~dirt~normal
+4~circuit~23~Win the 23rd Circuit Race to advance.~34570~1~461~450~300~300~sprint~clear~cash~dirt~normal
+4~circuit~24~Win the 24th Circuit Race to advance.~35156~1~465~450~300~300~sprint~sunset~cash~dirt~normal
+4~circuit~25~Win the 25th Circuit Race to advance.~35645~1~469~450~300~300~sprint~rainy~cash~dirt~normal
+4~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~173829~2~475~475~419~419~full~sunset~cash~dirt~normal
+4~circuit~26~Win the 26th Circuit Race to advance.~36963~1~480~475~300~419~sprint~clear~cash~dirt~normal
+4~circuit~27~Win the 27th Circuit Race to advance.~37500~1~484~475~300~300~sprint~clear~cash~dirt~normal
+4~circuit~28~Win the 28th Circuit Race to advance.~38086~1~487~475~425~419~sprint~sunset~cash~dirt~normal
+4~circuit~29~Win the 29th Circuit Race to advance.~38575~1~492~475~425~419~sprint~rainy~cash~dirt~normal
+4~circuit~30~Win the 30th and final Circuit Race!~39063~1~496~475~425~425~sprint~sunset~cash~dirt~normal
+4~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~432080~2~500~500~425~425~full~clear~cash~dirt~normal
+4~onlinestakes~1~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~2~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~3~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~sunset~cash~dirt~normal
+4~onlinestakes~4~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~5~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~6~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~rainy~cash~dirt~normal
+4~onlinestakes~7~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~8~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~sunset~cash~dirt~normal
+4~onlinestakes~9~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~10~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~rainy~cash~dirt~normal
+4~onlinestakes~11~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~sunset~cash~dirt~normal
+4~onlinestakes~12~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~clear~cash~dirt~normal
+4~onlinestakes~13~Complete the Tier 4 Warmup Race.~25000~1~400~400~300~300~sprint~sunset~cash~dirt~normal
+5~circuit~1~Win the 1st Circuit Race to advance.~27344~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~circuit~2~Win the 2nd Circuit Race to advance.~27955~1~500~500~400~400~sprint~sunset~cash~dirt~normal
+5~circuit~3~Win the 3rd Circuit Race to advance.~28444~1~504~500~400~400~sprint~clear~cash~dirt~normal
+5~circuit~4~Win the 4th Circuit Race to advance.~28993~1~504~500~400~400~sprint~clear~cash~dirt~normal
+5~circuit~5~Win the 5th Circuit Race to advance.~29664~1~504~500~400~400~sprint~sunset~cash~dirt~normal
+5~circuit~6~Win the 6th Circuit Race to advance.~30213~1~504~500~400~510~sprint~clear~cash~dirt~normal
+5~circuit~7~Win the 7th Circuit Race to advance.~30763~1~508~500~400~510~sprint~clear~cash~dirt~normal
+5~circuit~8~Win the 8th Circuit Race to advance.~31311~1~508~510~400~510~sprint~sunset~cash~dirt~normal
+5~circuit~9~Win the 9th Circuit Race to advance.~31983~1~508~510~502~400~sprint~clear~cash~dirt~normal
+5~circuit~10~Win the 10th Circuit Race to advance.~32594~1~516~510~502~400~sprint~sunset~cash~dirt~normal
+5~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~170899~2~516~510~503~510~full~rainy~cash~dirt~normal
+5~circuit~11~Win the 11th Circuit Race to advance.~33936~1~520~510~400~400~sprint~rainy~cash~dirt~normal
+5~circuit~12~Win the 12th Circuit Race to advance.~34548~1~522~510~400~512~sprint~sunset~cash~dirt~normal
+5~circuit~13~Win the 13th Circuit Race to advance.~35156~1~526~510~400~512~sprint~clear~cash~dirt~normal
+5~circuit~14~Win the 14th Circuit Race to advance.~35829~1~528~510~400~400~sprint~clear~cash~dirt~normal
+5~circuit~15~Win the 15th Circuit Race to advance.~36376~1~530~510~400~512~sprint~clear~cash~dirt~normal
+5~circuit~16~Win the 16th Circuit Race to advance.~37599~1~535~510~400~512~sprint~sunset~cash~dirt~normal
+5~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~186524~2~535~525~510~512~full~clear~cash~dirt~normal
+5~circuit~17~Win the 17th Circuit Race to advance.~38575~1~539~525~400~512~sprint~sunset~cash~dirt~normal
+5~circuit~18~Win the 18th Circuit Race to advance.~39063~1~541~525~400~400~sprint~clear~cash~dirt~normal
+5~circuit~19~Win the 19th Circuit Race to advance.~39795~1~545~525~400~512~sprint~sunset~cash~dirt~normal
+5~circuit~20~Win the 20th Circuit Race to advance.~40344~1~551~525~400~400~sprint~clear~cash~dirt~normal
+5~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~202029~2~553~550~517~515~full~sunset~cash~dirt~normal
+5~circuit~21~Win the 21st Circuit Race to advance.~41993~1~555~550~400~400~sprint~clear~cash~dirt~normal
+5~circuit~22~Win the 22nd Circuit Race to advance.~42664~1~559~550~400~400~sprint~clear~cash~dirt~normal
+5~circuit~23~Win the 23rd Circuit Race to advance.~43213~1~561~550~400~400~sprint~clear~cash~dirt~normal
+5~circuit~24~Win the 24th Circuit Race to advance.~43945~1~565~550~400~400~sprint~sunset~cash~dirt~normal
+5~circuit~25~Win the 25th Circuit Race to advance.~44556~1~569~550~400~400~sprint~rainy~cash~dirt~normal
+5~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~217286~2~575~575~519~519~full~sunset~cash~dirt~normal
+5~circuit~26~Win the 26th Circuit Race to advance.~46204~1~580~575~400~519~sprint~clear~cash~dirt~normal
+5~circuit~27~Win the 27th Circuit Race to advance.~46875~1~584~575~400~400~sprint~clear~cash~dirt~normal
+5~circuit~28~Win the 28th Circuit Race to advance.~47608~1~587~575~525~519~sprint~sunset~cash~dirt~normal
+5~circuit~29~Win the 29th Circuit Race to advance.~48219~1~592~575~525~519~sprint~rainy~cash~dirt~normal
+5~circuit~30~Win the 30th and final Circuit Race!~48829~1~596~575~525~525~sprint~sunset~cash~dirt~normal
+5~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~540100~2~600~600~525~525~full~clear~cash~dirt~normal
+5~onlinestakes~1~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~2~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~3~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~sunset~cash~dirt~normal
+5~onlinestakes~4~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~5~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~6~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~rainy~cash~dirt~normal
+5~onlinestakes~7~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~8~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~sunset~cash~dirt~normal
+5~onlinestakes~9~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~10~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~rainy~cash~dirt~normal
+5~onlinestakes~11~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~sunset~cash~dirt~normal
+5~onlinestakes~12~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~clear~cash~dirt~normal
+5~onlinestakes~13~Complete the Tier 5 Warmup Race.~30000~1~500~500~400~400~sprint~sunset~cash~dirt~normal
+6~circuit~1~Win the 1st Circuit Race to advance.~34180~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~circuit~2~Win the 2nd Circuit Race to advance.~34944~1~600~600~500~500~sprint~sunset~cash~dirt~normal
+6~circuit~3~Win the 3rd Circuit Race to advance.~35555~1~604~600~500~500~sprint~clear~cash~dirt~normal
+6~circuit~4~Win the 4th Circuit Race to advance.~36241~1~604~600~500~500~sprint~clear~cash~dirt~normal
+6~circuit~5~Win the 5th Circuit Race to advance.~37080~1~604~600~500~500~sprint~sunset~cash~dirt~normal
+6~circuit~6~Win the 6th Circuit Race to advance.~37766~1~604~600~500~610~sprint~clear~cash~dirt~normal
+6~circuit~7~Win the 7th Circuit Race to advance.~38454~1~608~600~500~610~sprint~clear~cash~dirt~normal
+6~circuit~8~Win the 8th Circuit Race to advance.~39139~1~608~610~500~610~sprint~sunset~cash~dirt~normal
+6~circuit~9~Win the 9th Circuit Race to advance.~39979~1~608~610~602~500~sprint~clear~cash~dirt~normal
+6~circuit~10~Win the 10th Circuit Race to advance.~40743~1~616~610~602~500~sprint~sunset~cash~dirt~normal
+6~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~213624~2~616~610~603~610~full~rainy~cash~dirt~normal
+6~circuit~11~Win the 11th Circuit Race to advance.~42420~1~620~610~500~500~sprint~rainy~cash~dirt~normal
+6~circuit~12~Win the 12th Circuit Race to advance.~43185~1~622~610~500~612~sprint~sunset~cash~dirt~normal
+6~circuit~13~Win the 13th Circuit Race to advance.~43945~1~626~610~500~612~sprint~clear~cash~dirt~normal
+6~circuit~14~Win the 14th Circuit Race to advance.~44786~1~628~610~500~500~sprint~clear~cash~dirt~normal
+6~circuit~15~Win the 15th Circuit Race to advance.~45470~1~630~610~500~612~sprint~clear~cash~dirt~normal
+6~circuit~16~Win the 16th Circuit Race to advance.~46999~1~635~610~500~612~sprint~sunset~cash~dirt~normal
+6~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~233155~2~635~625~610~612~full~clear~cash~dirt~normal
+6~circuit~17~Win the 17th Circuit Race to advance.~48219~1~639~625~500~612~sprint~sunset~cash~dirt~normal
+6~circuit~18~Win the 18th Circuit Race to advance.~48829~1~641~625~500~500~sprint~clear~cash~dirt~normal
+6~circuit~19~Win the 19th Circuit Race to advance.~49744~1~645~625~500~612~sprint~sunset~cash~dirt~normal
+6~circuit~20~Win the 20th Circuit Race to advance.~50430~1~651~625~500~500~sprint~clear~cash~dirt~normal
+6~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~252536~2~653~650~617~615~full~sunset~cash~dirt~normal
+6~circuit~21~Win the 21st Circuit Race to advance.~52491~1~655~650~500~500~sprint~clear~cash~dirt~normal
+6~circuit~22~Win the 22nd Circuit Race to advance.~53330~1~659~650~500~500~sprint~clear~cash~dirt~normal
+6~circuit~23~Win the 23rd Circuit Race to advance.~54016~1~661~650~500~500~sprint~clear~cash~dirt~normal
+6~circuit~24~Win the 24th Circuit Race to advance.~54931~1~665~650~500~500~sprint~sunset~cash~dirt~normal
+6~circuit~25~Win the 25th Circuit Race to advance.~55695~1~669~650~500~500~sprint~rainy~cash~dirt~normal
+6~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~271608~2~675~675~619~619~full~sunset~cash~dirt~normal
+6~circuit~26~Win the 26th Circuit Race to advance.~57755~1~680~675~500~619~sprint~clear~cash~dirt~normal
+6~circuit~27~Win the 27th Circuit Race to advance.~58594~1~684~675~500~500~sprint~clear~cash~dirt~normal
+6~circuit~28~Win the 28th Circuit Race to advance.~59510~1~687~675~625~619~sprint~sunset~cash~dirt~normal
+6~circuit~29~Win the 29th Circuit Race to advance.~60274~1~692~675~625~619~sprint~rainy~cash~dirt~normal
+6~circuit~30~Win the 30th and final Circuit Race!~61036~1~696~675~625~625~sprint~sunset~cash~dirt~normal
+6~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~675125~2~700~700~625~625~full~clear~cash~dirt~normal
+6~onlinestakes~1~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~2~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~3~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~sunset~cash~dirt~normal
+6~onlinestakes~4~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~5~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~6~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~rainy~cash~dirt~normal
+6~onlinestakes~7~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~8~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~sunset~cash~dirt~normal
+6~onlinestakes~9~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~10~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~rainy~cash~dirt~normal
+6~onlinestakes~11~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~sunset~cash~dirt~normal
+6~onlinestakes~12~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~clear~cash~dirt~normal
+6~onlinestakes~13~Complete the Tier 6 Warmup Race.~40000~1~600~600~500~500~sprint~sunset~cash~dirt~normal
+7~circuit~1~Win the 1st Circuit Race to advance.~42725~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~circuit~2~Win the 2nd Circuit Race to advance.~43680~1~700~700~600~600~sprint~sunset~cash~dirt~normal
+7~circuit~3~Win the 3rd Circuit Race to advance.~44444~1~704~700~600~600~sprint~clear~cash~dirt~normal
+7~circuit~4~Win the 4th Circuit Race to advance.~45301~1~704~700~600~600~sprint~clear~cash~dirt~normal
+7~circuit~5~Win the 5th Circuit Race to advance.~46350~1~704~700~600~600~sprint~sunset~cash~dirt~normal
+7~circuit~6~Win the 6th Circuit Race to advance.~47208~1~704~700~600~710~sprint~clear~cash~dirt~normal
+7~circuit~7~Win the 7th Circuit Race to advance.~48068~1~708~700~600~710~sprint~clear~cash~dirt~normal
+7~circuit~8~Win the 8th Circuit Race to advance.~48924~1~708~710~600~710~sprint~sunset~cash~dirt~normal
+7~circuit~9~Win the 9th Circuit Race to advance.~49974~1~708~710~702~600~sprint~clear~cash~dirt~normal
+7~circuit~10~Win the 10th Circuit Race to advance.~50929~1~716~710~702~600~sprint~sunset~cash~dirt~normal
+7~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~267030~2~716~710~703~710~full~rainy~cash~dirt~normal
+7~circuit~11~Win the 11th Circuit Race to advance.~53025~1~720~710~600~600~sprint~rainy~cash~dirt~normal
+7~circuit~12~Win the 12th Circuit Race to advance.~53981~1~722~710~600~712~sprint~sunset~cash~dirt~normal
+7~circuit~13~Win the 13th Circuit Race to advance.~54931~1~726~710~600~712~sprint~clear~cash~dirt~normal
+7~circuit~14~Win the 14th Circuit Race to advance.~55983~1~728~710~600~600~sprint~clear~cash~dirt~normal
+7~circuit~15~Win the 15th Circuit Race to advance.~56838~1~730~710~600~712~sprint~clear~cash~dirt~normal
+7~circuit~16~Win the 16th Circuit Race to advance.~58749~1~735~710~600~712~sprint~sunset~cash~dirt~normal
+7~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~291444~2~735~725~710~712~full~clear~cash~dirt~normal
+7~circuit~17~Win the 17th Circuit Race to advance.~60274~1~739~725~600~712~sprint~sunset~cash~dirt~normal
+7~circuit~18~Win the 18th Circuit Race to advance.~61036~1~741~725~600~600~sprint~clear~cash~dirt~normal
+7~circuit~19~Win the 19th Circuit Race to advance.~62180~1~745~725~600~712~sprint~sunset~cash~dirt~normal
+7~circuit~20~Win the 20th Circuit Race to advance.~63038~1~751~725~600~600~sprint~clear~cash~dirt~normal
+7~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~315670~2~753~750~717~715~full~sunset~cash~dirt~normal
+7~circuit~21~Win the 21st Circuit Race to advance.~65614~1~755~750~600~600~sprint~clear~cash~dirt~normal
+7~circuit~22~Win the 22nd Circuit Race to advance.~66663~1~759~750~600~600~sprint~clear~cash~dirt~normal
+7~circuit~23~Win the 23rd Circuit Race to advance.~67520~1~761~750~600~600~sprint~clear~cash~dirt~normal
+7~circuit~24~Win the 24th Circuit Race to advance.~68664~1~765~750~600~600~sprint~sunset~cash~dirt~normal
+7~circuit~25~Win the 25th Circuit Race to advance.~69619~1~769~750~600~600~sprint~rainy~cash~dirt~normal
+7~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~339510~2~775~775~719~719~full~sunset~cash~dirt~normal
+7~circuit~26~Win the 26th Circuit Race to advance.~72194~1~780~775~600~719~sprint~clear~cash~dirt~normal
+7~circuit~27~Win the 27th Circuit Race to advance.~73243~1~784~775~600~600~sprint~clear~cash~dirt~normal
+7~circuit~28~Win the 28th Circuit Race to advance.~74388~1~787~775~725~719~sprint~sunset~cash~dirt~normal
+7~circuit~29~Win the 29th Circuit Race to advance.~75343~1~792~775~725~719~sprint~rainy~cash~dirt~normal
+7~circuit~30~Win the 30th and final Circuit Race!~76295~1~796~775~725~725~sprint~sunset~cash~dirt~normal
+7~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~843906~2~800~800~725~725~full~clear~cash~dirt~normal
+7~onlinestakes~1~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~2~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~3~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~sunset~cash~dirt~normal
+7~onlinestakes~4~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~5~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~6~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~rainy~cash~dirt~normal
+7~onlinestakes~7~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~8~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~sunset~cash~dirt~normal
+7~onlinestakes~9~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~10~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~rainy~cash~dirt~normal
+7~onlinestakes~11~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~sunset~cash~dirt~normal
+7~onlinestakes~12~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~clear~cash~dirt~normal
+7~onlinestakes~13~Complete the Tier 7 Warmup Race.~50000~1~700~700~600~600~sprint~sunset~cash~dirt~normal
+8~circuit~1~Win the 1st Circuit Race to advance.~53406~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~circuit~2~Win the 2nd Circuit Race to advance.~54600~1~800~800~700~700~sprint~sunset~cash~dirt~normal
+8~circuit~3~Win the 3rd Circuit Race to advance.~55555~1~804~800~700~700~sprint~clear~cash~dirt~normal
+8~circuit~4~Win the 4th Circuit Race to advance.~56626~1~804~800~700~700~sprint~clear~cash~dirt~normal
+8~circuit~5~Win the 5th Circuit Race to advance.~57938~1~804~800~700~700~sprint~sunset~cash~dirt~normal
+8~circuit~6~Win the 6th Circuit Race to advance.~59010~1~804~800~700~810~sprint~clear~cash~dirt~normal
+8~circuit~7~Win the 7th Circuit Race to advance.~60085~1~808~800~700~810~sprint~clear~cash~dirt~normal
+8~circuit~8~Win the 8th Circuit Race to advance.~61155~1~808~810~700~810~sprint~sunset~cash~dirt~normal
+8~circuit~9~Win the 9th Circuit Race to advance.~62468~1~808~810~802~700~sprint~clear~cash~dirt~normal
+8~circuit~10~Win the 10th Circuit Race to advance.~63661~1~816~810~802~700~sprint~sunset~cash~dirt~normal
+8~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~333788~2~816~810~803~810~full~rainy~cash~dirt~normal
+8~circuit~11~Win the 11th Circuit Race to advance.~66281~1~820~810~700~700~sprint~rainy~cash~dirt~normal
+8~circuit~12~Win the 12th Circuit Race to advance.~67476~1~822~810~700~812~sprint~sunset~cash~dirt~normal
+8~circuit~13~Win the 13th Circuit Race to advance.~68664~1~826~810~700~812~sprint~clear~cash~dirt~normal
+8~circuit~14~Win the 14th Circuit Race to advance.~69979~1~828~810~700~700~sprint~clear~cash~dirt~normal
+8~circuit~15~Win the 15th Circuit Race to advance.~71048~1~830~810~700~812~sprint~clear~cash~dirt~normal
+8~circuit~16~Win the 16th Circuit Race to advance.~73436~1~835~810~700~812~sprint~sunset~cash~dirt~normal
+8~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~364305~2~835~825~810~812~full~clear~cash~dirt~normal
+8~circuit~17~Win the 17th Circuit Race to advance.~75343~1~839~825~700~812~sprint~sunset~cash~dirt~normal
+8~circuit~18~Win the 18th Circuit Race to advance.~76295~1~841~825~700~700~sprint~clear~cash~dirt~normal
+8~circuit~19~Win the 19th Circuit Race to advance.~77725~1~845~825~700~812~sprint~sunset~cash~dirt~normal
+8~circuit~20~Win the 20th Circuit Race to advance.~78798~1~851~825~700~700~sprint~clear~cash~dirt~normal
+8~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~394588~2~853~850~817~815~full~sunset~cash~dirt~normal
+8~circuit~21~Win the 21st Circuit Race to advance.~82018~1~855~850~700~700~sprint~clear~cash~dirt~normal
+8~circuit~22~Win the 22nd Circuit Race to advance.~83329~1~859~850~700~700~sprint~clear~cash~dirt~normal
+8~circuit~23~Win the 23rd Circuit Race to advance.~84400~1~861~850~700~700~sprint~clear~cash~dirt~normal
+8~circuit~24~Win the 24th Circuit Race to advance.~85830~1~865~850~700~700~sprint~sunset~cash~dirt~normal
+8~circuit~25~Win the 25th Circuit Race to advance.~87024~1~869~850~700~700~sprint~rainy~cash~dirt~normal
+8~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~424388~2~875~875~819~819~full~sunset~cash~dirt~normal
+8~circuit~26~Win the 26th Circuit Race to advance.~90243~1~880~875~700~819~sprint~clear~cash~dirt~normal
+8~circuit~27~Win the 27th Circuit Race to advance.~91554~1~884~875~700~700~sprint~clear~cash~dirt~normal
+8~circuit~28~Win the 28th Circuit Race to advance.~92985~1~887~875~825~819~sprint~sunset~cash~dirt~normal
+8~circuit~29~Win the 29th Circuit Race to advance.~94179~1~892~875~825~819~sprint~rainy~cash~dirt~normal
+8~circuit~30~Win the 30th and final Circuit Race!~95369~1~896~875~825~825~sprint~sunset~cash~dirt~normal
+8~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~1054883~2~900~900~825~825~full~clear~cash~dirt~normal
+8~onlinestakes~1~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~2~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~3~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~sunset~cash~dirt~normal
+8~onlinestakes~4~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~5~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~6~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~rainy~cash~dirt~normal
+8~onlinestakes~7~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~8~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~sunset~cash~dirt~normal
+8~onlinestakes~9~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~10~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~rainy~cash~dirt~normal
+8~onlinestakes~11~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~sunset~cash~dirt~normal
+8~onlinestakes~12~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~clear~cash~dirt~normal
+8~onlinestakes~13~Complete the Tier 8 Warmup Race.~65000~1~800~800~700~700~sprint~sunset~cash~dirt~normal
+9~circuit~1~Win the 1st Circuit Race to advance.~66758~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~circuit~2~Win the 2nd Circuit Race to advance.~68250~1~900~900~800~800~sprint~sunset~cash~dirt~normal
+9~circuit~3~Win the 3rd Circuit Race to advance.~69444~1~904~900~800~800~sprint~clear~cash~dirt~normal
+9~circuit~4~Win the 4th Circuit Race to advance.~70783~1~904~900~800~800~sprint~clear~cash~dirt~normal
+9~circuit~5~Win the 5th Circuit Race to advance.~72423~1~904~900~800~800~sprint~sunset~cash~dirt~normal
+9~circuit~6~Win the 6th Circuit Race to advance.~73763~1~904~900~800~910~sprint~clear~cash~dirt~normal
+9~circuit~7~Win the 7th Circuit Race to advance.~75106~1~908~900~800~910~sprint~clear~cash~dirt~normal
+9~circuit~8~Win the 8th Circuit Race to advance.~76444~1~908~910~800~910~sprint~sunset~cash~dirt~normal
+9~circuit~9~Win the 9th Circuit Race to advance.~78085~1~908~910~902~800~sprint~clear~cash~dirt~normal
+9~circuit~10~Win the 10th Circuit Race to advance.~79576~1~916~910~902~800~sprint~sunset~cash~dirt~normal
+9~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~417235~2~916~910~903~910~full~rainy~cash~dirt~normal
+9~circuit~11~Win the 11th Circuit Race to advance.~82851~1~920~910~800~800~sprint~rainy~cash~dirt~normal
+9~circuit~12~Win the 12th Circuit Race to advance.~84345~1~922~910~800~912~sprint~sunset~cash~dirt~normal
+9~circuit~13~Win the 13th Circuit Race to advance.~85830~1~926~910~800~912~sprint~clear~cash~dirt~normal
+9~circuit~14~Win the 14th Circuit Race to advance.~87474~1~928~910~800~800~sprint~clear~cash~dirt~normal
+9~circuit~15~Win the 15th Circuit Race to advance.~88810~1~930~910~800~912~sprint~clear~cash~dirt~normal
+9~circuit~16~Win the 16th Circuit Race to advance.~91795~1~935~910~800~912~sprint~sunset~cash~dirt~normal
+9~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~455381~2~935~925~910~912~full~clear~cash~dirt~normal
+9~circuit~17~Win the 17th Circuit Race to advance.~94179~1~939~925~800~912~sprint~sunset~cash~dirt~normal
+9~circuit~18~Win the 18th Circuit Race to advance.~95369~1~941~925~800~800~sprint~clear~cash~dirt~normal
+9~circuit~19~Win the 19th Circuit Race to advance.~97156~1~945~925~800~912~sprint~sunset~cash~dirt~normal
+9~circuit~20~Win the 20th Circuit Race to advance.~98498~1~951~925~800~800~sprint~clear~cash~dirt~normal
+9~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~493235~2~953~950~917~915~full~sunset~cash~dirt~normal
+9~circuit~21~Win the 21st Circuit Race to advance.~102523~1~955~950~800~800~sprint~clear~cash~dirt~normal
+9~circuit~22~Win the 22nd Circuit Race to advance.~104161~1~959~950~800~800~sprint~clear~cash~dirt~normal
+9~circuit~23~Win the 23rd Circuit Race to advance.~105500~1~961~950~800~800~sprint~clear~cash~dirt~normal
+9~circuit~24~Win the 24th Circuit Race to advance.~107288~1~965~950~800~800~sprint~sunset~cash~dirt~normal
+9~circuit~25~Win the 25th Circuit Race to advance.~108780~1~969~950~800~800~sprint~rainy~cash~dirt~normal
+9~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~530485~2~975~975~919~919~full~sunset~cash~dirt~normal
+9~circuit~26~Win the 26th Circuit Race to advance.~112804~1~980~975~800~919~sprint~clear~cash~dirt~normal
+9~circuit~27~Win the 27th Circuit Race to advance.~114443~1~984~975~800~800~sprint~clear~cash~dirt~normal
+9~circuit~28~Win the 28th Circuit Race to advance.~116231~1~987~975~925~919~sprint~sunset~cash~dirt~normal
+9~circuit~29~Win the 29th Circuit Race to advance.~117724~1~992~975~925~919~sprint~rainy~cash~dirt~normal
+9~circuit~30~Win the 30th and final Circuit Race!~119211~1~996~975~925~925~sprint~sunset~cash~dirt~normal
+9~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~1318604~2~1000~1000~925~925~full~clear~cash~dirt~normal
+9~onlinestakes~1~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~2~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~3~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~sunset~cash~dirt~normal
+9~onlinestakes~4~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~5~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~6~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~rainy~cash~dirt~normal
+9~onlinestakes~7~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~8~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~sunset~cash~dirt~normal
+9~onlinestakes~9~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~10~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~rainy~cash~dirt~normal
+9~onlinestakes~11~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~sunset~cash~dirt~normal
+9~onlinestakes~12~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~clear~cash~dirt~normal
+9~onlinestakes~13~Complete the Tier 9 Warmup Race.~70000~1~900~900~800~800~sprint~sunset~cash~dirt~normal
+10~circuit~1~Win the 1st Circuit Race to advance.~83448~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~circuit~2~Win the 2nd Circuit Race to advance.~85313~1~1000~1000~900~900~sprint~sunset~cash~dirt~normal
+10~circuit~3~Win the 3rd Circuit Race to advance.~86805~1~1004~1000~900~900~sprint~clear~cash~dirt~normal
+10~circuit~4~Win the 4th Circuit Race to advance.~88479~1~1004~1000~900~900~sprint~clear~cash~dirt~normal
+10~circuit~5~Win the 5th Circuit Race to advance.~90529~1~1004~1000~900~900~sprint~sunset~cash~dirt~normal
+10~circuit~6~Win the 6th Circuit Race to advance.~92204~1~1004~1000~900~1010~sprint~clear~cash~dirt~normal
+10~circuit~7~Win the 7th Circuit Race to advance.~93883~1~1008~1000~900~1010~sprint~clear~cash~dirt~normal
+10~circuit~8~Win the 8th Circuit Race to advance.~95555~1~1008~1010~900~1010~sprint~sunset~cash~dirt~normal
+10~circuit~9~Win the 9th Circuit Race to advance.~97606~1~1008~1010~1002~900~sprint~clear~cash~dirt~normal
+10~circuit~10~Win the 10th Circuit Race to advance.~99470~1~1016~1010~1002~900~sprint~sunset~cash~dirt~normal
+10~major~1~Win the Bluegrass Derby, the first in your bid for the Triple Crown!~521544~2~1016~1010~1003~1010~full~rainy~cash~dirt~normal
+10~circuit~11~Win the 11th Circuit Race to advance.~103564~1~1020~1010~900~900~sprint~rainy~cash~dirt~normal
+10~circuit~12~Win the 12th Circuit Race to advance.~105431~1~1022~1010~900~1012~sprint~sunset~cash~dirt~normal
+10~circuit~13~Win the 13th Circuit Race to advance.~107288~1~1026~1010~900~1012~sprint~clear~cash~dirt~normal
+10~circuit~14~Win the 14th Circuit Race to advance.~109343~1~1028~1010~900~900~sprint~clear~cash~dirt~normal
+10~circuit~15~Win the 15th Circuit Race to advance.~111013~1~1030~1010~900~1012~sprint~clear~cash~dirt~normal
+10~circuit~16~Win the 16th Circuit Race to advance.~114744~1~1035~1010~900~1012~sprint~sunset~cash~dirt~normal
+10~major~2~Win at the Steeplechase Post to earn a bid in the 2nd Triple Crown race!~569226~2~1035~1025~1010~1012~full~clear~cash~dirt~normal
+10~circuit~17~Win the 17th Circuit Race to advance.~117724~1~1039~1025~900~1012~sprint~sunset~cash~dirt~normal
+10~circuit~18~Win the 18th Circuit Race to advance.~119211~1~1041~1025~900~900~sprint~clear~cash~dirt~normal
+10~circuit~19~Win the 19th Circuit Race to advance.~121445~1~1045~1025~900~1012~sprint~sunset~cash~dirt~normal
+10~circuit~20~Win the 20th Circuit Race to advance.~123123~1~1051~1025~900~900~sprint~clear~cash~dirt~normal
+10~major~3~Win the Baltimore Stakes, the second major race in your bid for the Triple Crown!~616544~2~1053~1050~1017~1015~full~sunset~cash~dirt~normal
+10~circuit~21~Win the 21st Circuit Race to advance.~128154~1~1055~1050~900~900~sprint~clear~cash~dirt~normal
+10~circuit~22~Win the 22nd Circuit Race to advance.~130201~1~1059~1050~900~900~sprint~clear~cash~dirt~normal
+10~circuit~23~Win the 23rd Circuit Race to advance.~131875~1~1061~1050~900~900~sprint~clear~cash~dirt~normal
+10~circuit~24~Win the 24th Circuit Race to advance.~134110~1~1065~1050~900~900~sprint~sunset~cash~dirt~normal
+10~circuit~25~Win the 25th Circuit Race to advance.~135975~1~1069~1050~900~900~sprint~rainy~cash~dirt~normal
+10~major~4~Win the Venture Cup in to earn a bid in the final Triple Crown race!~663106~2~1075~1075~1019~1019~full~sunset~cash~dirt~normal
+10~circuit~26~Win the 26th Circuit Race to advance.~141005~1~1080~1075~900~1019~sprint~clear~cash~dirt~normal
+10~circuit~27~Win the 27th Circuit Race to advance.~143054~1~1084~1075~900~900~sprint~clear~cash~dirt~normal
+10~circuit~28~Win the 28th Circuit Race to advance.~145289~1~1087~1075~1025~1019~sprint~sunset~cash~dirt~normal
+10~circuit~29~Win the 29th Circuit Race to advance.~147155~1~1092~1075~1025~1019~sprint~rainy~cash~dirt~normal
+10~circuit~30~Win the 30th and final Circuit Race!~149014~1~1096~1075~1025~1025~sprint~sunset~cash~dirt~normal
+10~major~5~Win the Triple Crown by finishing first at the Elmont Stakes!~1648255~2~1100~1100~1025~1025~full~clear~cash~dirt~normal
+10~onlinestakes~1~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~2~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~3~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~sunset~cash~dirt~normal
+10~onlinestakes~4~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~5~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~6~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~rainy~cash~dirt~normal
+10~onlinestakes~7~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~8~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~sunset~cash~dirt~normal
+10~onlinestakes~9~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~10~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~rainy~cash~dirt~normal
+10~onlinestakes~11~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~sunset~cash~dirt~normal
+10~onlinestakes~12~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~clear~cash~dirt~normal
+10~onlinestakes~13~Complete the Tier 10 Warmup Race.~100000~1~1000~1000~900~900~sprint~sunset~cash~dirt~normal
+1~championship~1~Championship Series Race~125000~1~200~200~125~125~sprint~clear~cash~dirt~normal
+1~championship~2~Championship Series Race~150000~1~210~210~145~145~full~rainy~cash~dirt~normal
+1~championship~3~Championship Series Race~0~1~225~225~165~165~full~sunset~cash~dirt~normal
+2~championship~1~Championship Series Race~200000~1~300~300~225~225~sprint~clear~cash~dirt~normal
+2~championship~2~Championship Series Race~260000~1~318~318~245~245~sprint~clear~cash~dirt~normal
+2~championship~3~Championship Series Race~340000~1~339~339~270~270~sprint~sunset~cash~dirt~normal
+2~championship~4~Championship Series Race~450000~1~374~374~314~314~sprint~rainy~cash~dirt~normal
+2~championship~5~Championship Series Race~0~2~400~400~350~350~full~sunset~cash~dirt~normal
+3~championship~1~Championship Series Race~150000~1~400~400~325~325~sprint~clear~cash~dirt~normal
+3~championship~2~Championship Series Race~200000~1~409~409~335~335~sprint~sunset~cash~dirt~normal
+3~championship~3~Championship Series Race~225000~1~418~418~345~345~sprint~sunset~cash~dirt~normal
+3~championship~4~Championship Series Race~275000~1~428~428~357~357~sprint~clear~cash~dirt~normal
+3~championship~5~Championship Series Race~300000~1~462~462~398~398~sprint~rainy~cash~dirt~normal
+3~championship~6~Championship Series Race~400000~1~486~486~431~431~sprint~rainy~cash~dirt~normal
+3~championship~7~Championship Series Race~~2~500~500~450~450~full~clear~cash~dirt~normal
+4~championship~1~Championship Series Race~150000~1~500~500~425~425~sprint~rainy~cash~dirt~normal
+4~championship~2~Championship Series Race~175000~1~509~509~435~435~sprint~sunset~cash~dirt~normal
+4~championship~3~Championship Series Race~200000~1~518~518~445~445~sprint~rainy~cash~dirt~normal
+4~championship~4~Championship Series Race~210000~1~528~528~457~457~sprint~sunset~cash~dirt~normal
+4~championship~5~Championship Series Race~225000~2~539~539~470~470~full~rainy~cash~dirt~normal
+4~championship~6~Championship Series Race~230000~1~550~550~483~483~sprint~clear~cash~dirt~normal
+4~championship~7~Championship Series Race~250000~1~562~562~498~498~sprint~clear~cash~dirt~normal
+4~championship~8~Championship Series Race~260000~1~574~574~514~514~sprint~clear~cash~dirt~normal
+4~championship~9~Championship Series Race~275000~1~586~586~531~531~sprint~clear~cash~dirt~normal
+4~championship~10~Championship Series Race~~2~600~600~550~550~full~sunset~cash~dirt~normal
+5~championship~1~Championship Series Race~120000~1~600~600~525~525~sprint~clear~cash~dirt~normal
+5~championship~2~Championship Series Race~130000~1~609~609~535~535~sprint~sunset~cash~dirt~normal
+5~championship~3~Championship Series Race~140000~1~618~618~545~545~sprint~rainy~cash~dirt~normal
+5~championship~4~Championship Series Race~158000~1~628~628~557~557~sprint~sunset~cash~dirt~normal
+5~championship~5~Championship Series Race~200000~2~639~639~570~570~full~clear~cash~dirt~normal
+5~championship~6~Championship Series Race~185000~1~641~643~578~571~sprint~clear~cash~dirt~normal
+5~championship~7~Championship Series Race~215000~1~645~644~579~578~sprint~sunset~cash~dirt~normal
+5~championship~8~Championship Series Race~225000~1~650~649~582~581~sprint~clear~cash~dirt~normal
+5~championship~9~Championship Series Race~240000~1~650~650~583~583~sprint~sunset~cash~dirt~normal
+5~championship~10~Championship Series Race~275000~2~662~662~598~598~full~rainy~cash~dirt~normal
+5~championship~11~Championship Series Race~265000~1~674~674~614~614~sprint~sunset~cash~dirt~normal
+5~championship~12~Championship Series Race~300000~1~686~686~631~631~sprint~clear~cash~dirt~normal
+5~championship~13~Championship Series Race~~2~700~700~650~650~full~clear~cash~dirt~normal
+6~championship~1~Championship Series Race~125000~1~700~700~625~625~sprint~sunset~cash~dirt~normal
+6~championship~2~Championship Series Race~127500~1~705~706~633~631~sprint~clear~cash~dirt~normal
+6~championship~3~Championship Series Race~130000~1~711~712~641~640~sprint~sunset~cash~dirt~normal
+6~championship~4~Championship Series Race~135000~1~717~718~649~649~sprint~rainy~cash~dirt~normal
+6~championship~5~Championship Series Race~150000~2~722~722~657~658~full~sunset~cash~dirt~normal
+6~championship~6~Championship Series Race~140000~1~724~725~665~665~sprint~clear~cash~dirt~normal
+6~championship~7~Championship Series Race~145000~1~730~729~673~675~sprint~clear~cash~dirt~normal
+6~championship~8~Championship Series Race~165000~1~738~739~681~680~sprint~sunset~cash~dirt~normal
+6~championship~9~Championship Series Race~170000~1~745~746~689~690~sprint~clear~cash~dirt~normal
+6~championship~10~Championship Series Race~200000~2~751~752~697~699~full~sunset~cash~dirt~normal
+6~championship~11~Championship Series Race~195000~1~759~760~705~706~sprint~rainy~cash~dirt~normal
+6~championship~12~Championship Series Race~210000~1~767~768~713~710~sprint~sunset~cash~dirt~normal
+6~championship~13~Championship Series Race~220000~1~774~775~721~720~sprint~clear~cash~dirt~normal
+6~championship~14~Championship Series Race~230000~1~780~781~729~727~sprint~clear~cash~dirt~normal
+6~championship~15~Championship Series Race~250000~2~785~784~737~736~full~sunset~cash~dirt~normal
+6~championship~16~Championship Series Race~220000~1~791~792~745~744~sprint~clear~cash~dirt~normal
+6~championship~17~Championship Series Race~225000~1~798~799~748~749~sprint~sunset~cash~dirt~normal
+6~championship~18~Championship Series Race~~2~800~800~750~750~full~rainy~cash~dirt~normal
+7~championship~1~Championship Series Race~125000~1~800~800~725~725~sprint~sunset~cash~dirt~normal
+7~championship~2~Championship Series Race~127500~1~804~803~729~731~sprint~clear~cash~dirt~normal
+7~championship~3~Championship Series Race~130000~1~808~807~734~737~sprint~clear~cash~dirt~normal
+7~championship~4~Championship Series Race~133000~1~812~811~740~742~sprint~sunset~cash~dirt~normal
+7~championship~5~Championship Series Race~142500~2~816~815~745~747~full~clear~cash~dirt~normal
+7~championship~6~Championship Series Race~135000~1~820~820~750~752~sprint~sunset~cash~dirt~normal
+7~championship~7~Championship Series Race~145000~1~824~824~755~757~sprint~rainy~cash~dirt~normal
+7~championship~8~Championship Series Race~147500~1~828~828~760~762~sprint~sunset~cash~dirt~normal
+7~championship~9~Championship Series Race~149000~1~832~832~765~768~sprint~clear~cash~dirt~normal
+7~championship~10~Championship Series Race~165000~2~837~836~771~773~full~clear~cash~dirt~normal
+7~championship~11~Championship Series Race~150000~1~841~840~776~778~sprint~sunset~cash~dirt~normal
+7~championship~12~Championship Series Race~155000~1~845~844~781~784~sprint~clear~cash~dirt~normal
+7~championship~13~Championship Series Race~160000~1~850~849~787~789~sprint~sunset~cash~dirt~normal
+7~championship~14~Championship Series Race~165000~1~854~853~792~794~sprint~rainy~cash~dirt~normal
+7~championship~15~Championship Series Race~175000~2~858~857~798~800~full~sunset~cash~dirt~normal
+7~championship~16~Championship Series Race~170000~1~863~861~803~806~sprint~clear~cash~dirt~normal
+7~championship~17~Championship Series Race~175000~1~867~866~809~811~sprint~clear~cash~dirt~normal
+7~championship~18~Championship Series Race~180000~1~871~870~815~817~sprint~sunset~cash~dirt~normal
+7~championship~19~Championship Series Race~182500~1~876~874~820~823~sprint~clear~cash~dirt~normal
+7~championship~20~Championship Series Race~190000~2~880~879~826~828~full~sunset~cash~dirt~normal
+7~championship~21~Championship Series Race~185000~1~885~883~832~834~sprint~rainy~cash~dirt~normal
+7~championship~22~Championship Series Race~195000~1~889~888~838~840~sprint~sunset~cash~dirt~normal
+7~championship~23~Championship Series Race~215000~1~894~892~843~846~sprint~clear~cash~dirt~normal
+7~championship~24~Championship Series Race~225000~1~899~897~848~849~sprint~clear~cash~dirt~normal
+7~championship~25~Championship Series Race~0~2~900~900~850~850~full~sunset~cash~dirt~normal
+8~championship~1~Championship Series Race~125000~1~900~900~825~825~sprint~clear~cash~dirt~normal
+8~championship~2~Championship Series Race~127750~1~904~904~829~830~sprint~sunset~cash~dirt~normal
+8~championship~3~Championship Series Race~130560~1~908~908~834~835~sprint~rainy~cash~dirt~normal
+8~championship~4~Championship Series Race~133432~1~911~910~837~838~sprint~sunset~cash~dirt~normal
+8~championship~5~Championship Series Race~136367~2~916~914~841~842~full~clear~cash~dirt~normal
+8~championship~6~Championship Series Race~139367~1~919~917~846~847~sprint~clear~cash~dirt~normal
+8~championship~7~Championship Series Race~142433~1~924~919~850~851~sprint~sunset~cash~dirt~normal
+8~championship~8~Championship Series Race~145566~1~927~922~854~855~sprint~clear~cash~dirt~normal
+8~championship~9~Championship Series Race~148768~1~932~925~858~859~sprint~sunset~cash~dirt~normal
+8~championship~10~Championship Series Race~152040~2~935~927~863~864~full~rainy~cash~dirt~normal
+8~championship~11~Championship Series Race~155384~1~939~931~868~869~sprint~sunset~cash~dirt~normal
+8~championship~12~Championship Series Race~158802~1~942~936~873~874~sprint~clear~cash~dirt~normal
+8~championship~13~Championship Series Race~162295~1~946~941~877~878~sprint~clear~cash~dirt~normal
+8~championship~14~Championship Series Race~165865~1~948~943~882~883~sprint~sunset~cash~dirt~normal
+8~championship~15~Championship Series Race~169514~2~952~945~886~887~full~clear~cash~dirt~normal
+8~championship~16~Championship Series Race~173243~1~955~947~890~891~sprint~sunset~cash~dirt~normal
+8~championship~17~Championship Series Race~177054~1~957~951~895~896~sprint~rainy~cash~dirt~normal
+8~championship~18~Championship Series Race~180949~1~962~954~900~901~sprint~sunset~cash~dirt~normal
+8~championship~19~Championship Series Race~184929~1~965~957~904~905~sprint~clear~cash~dirt~normal
+8~championship~20~Championship Series Race~188997~2~967~959~907~908~full~clear~cash~dirt~normal
+8~championship~21~Championship Series Race~193154~1~972~963~912~913~sprint~sunset~cash~dirt~normal
+8~championship~22~Championship Series Race~197403~1~975~967~916~917~sprint~clear~cash~dirt~normal
+8~championship~23~Championship Series Race~201745~1~979~972~919~920~sprint~sunset~cash~dirt~normal
+8~championship~24~Championship Series Race~206183~1~983~974~924~925~sprint~rainy~cash~dirt~normal
+8~championship~25~Championship Series Race~210719~2~987~978~927~928~sprint~sunset~cash~dirt~normal
+8~championship~26~Championship Series Race~215354~1~989~981~932~933~sprint~clear~cash~dirt~normal
+8~championship~27~Championship Series Race~220091~1~991~983~936~937~sprint~clear~cash~dirt~normal
+8~championship~28~Championship Series Race~224933~1~993~985~940~941~sprint~sunset~cash~dirt~normal
+8~championship~29~Championship Series Race~229881~2~997~989~944~945~full~clear~cash~dirt~normal
+8~championship~30~Championship Series Race~~2~1000~1000~950~950~full~sunset~cash~dirt~normal
+9~championship~1~Championship Series Race~150000~1~1000~1000~925~925~sprint~rainy~cash~dirt~normal
+9~championship~2~Championship Series Race~150525~1~1002~1003~926~930~sprint~sunset~cash~dirt~normal
+9~championship~3~Championship Series Race~151051~1~1004~1004~931~931~sprint~clear~cash~dirt~normal
+9~championship~4~Championship Series Race~151579~1~1006~1005~935~934~sprint~clear~cash~dirt~normal
+9~championship~5~Championship Series Race~152109~1~1009~1006~939~935~sprint~sunset~cash~dirt~normal
+9~championship~6~Championship Series Race~152641~1~1013~1009~941~940~sprint~clear~cash~dirt~normal
+9~championship~7~Championship Series Race~153175~1~1017~1013~946~941~sprint~sunset~cash~dirt~normal
+9~championship~8~Championship Series Race~153711~1~1019~1016~950~944~sprint~rainy~cash~dirt~normal
+9~championship~9~Championship Series Race~154248~1~1022~1018~951~947~sprint~sunset~cash~dirt~normal
+9~championship~10~Championship Series Race~154787~2~1025~1022~954~949~full~clear~cash~dirt~normal
+9~championship~11~Championship Series Race~155328~1~1029~1025~958~951~sprint~clear~cash~dirt~normal
+9~championship~12~Championship Series Race~155871~1~1030~1026~959~953~sprint~sunset~cash~dirt~normal
+9~championship~13~Championship Series Race~156416~1~1033~1029~964~958~sprint~clear~cash~dirt~normal
+9~championship~14~Championship Series Race~156963~1~1036~1030~969~962~sprint~sunset~cash~dirt~normal
+9~championship~15~Championship Series Race~157512~1~1038~1034~973~963~sprint~rainy~cash~dirt~normal
+9~championship~16~Championship Series Race~158063~1~1039~1038~976~968~sprint~sunset~cash~dirt~normal
+9~championship~17~Championship Series Race~158616~1~1041~1039~977~973~sprint~clear~cash~dirt~normal
+9~championship~18~Championship Series Race~159171~1~1044~1043~982~978~sprint~clear~cash~dirt~normal
+9~championship~19~Championship Series Race~159728~1~1047~1046~984~982~sprint~sunset~cash~dirt~normal
+9~championship~20~Championship Series Race~160287~2~1049~1050~985~985~full~clear~cash~dirt~normal
+9~championship~21~Championship Series Race~160848~1~1051~1051~986~987~sprint~sunset~cash~dirt~normal
+9~championship~22~Championship Series Race~161410~1~1054~1053~988~991~sprint~rainy~cash~dirt~normal
+9~championship~23~Championship Series Race~161974~1~1057~1057~992~995~sprint~sunset~cash~dirt~normal
+9~championship~24~Championship Series Race~162540~1~1058~1059~994~996~sprint~clear~cash~dirt~normal
+9~championship~25~Championship Series Race~163108~2~1059~1060~995~998~full~clear~cash~dirt~normal
+9~championship~26~Championship Series Race~163678~1~1061~1061~998~1000~sprint~sunset~cash~dirt~normal
+9~championship~27~Championship Series Race~164250~1~1062~1063~999~1005~sprint~clear~cash~dirt~normal
+9~championship~28~Championship Series Race~164824~1~1064~1066~1003~1009~sprint~sunset~cash~dirt~normal
+9~championship~29~Championship Series Race~165400~1~1066~1069~1006~1010~sprint~rainy~cash~dirt~normal
+9~championship~30~Championship Series Race~165978~2~1067~1070~1007~1015~full~sunset~cash~dirt~normal
+9~championship~31~Championship Series Race~166558~1~1068~1072~1011~1016~sprint~clear~cash~dirt~normal
+9~championship~32~Championship Series Race~167140~1~1071~1074~1016~1021~sprint~clear~cash~dirt~normal
+9~championship~33~Championship Series Race~167724~1~1075~1077~1018~1025~sprint~sunset~cash~dirt~normal
+9~championship~34~Championship Series Race~168311~1~1078~1080~1022~1028~sprint~clear~cash~dirt~normal
+9~championship~35~Championship Series Race~168900~2~1082~1082~1027~1033~full~sunset~cash~dirt~normal
+9~championship~36~Championship Series Race~169491~1~1083~1086~1035~1037~sprint~rainy~cash~dirt~normal
+9~championship~37~Championship Series Race~170084~1~1087~1088~1040~1042~sprint~sunset~cash~dirt~normal
+9~championship~38~Championship Series Race~170679~1~1090~1092~1044~1043~sprint~clear~cash~dirt~normal
+9~championship~39~Championship Series Race~171276~1~1099~1096~1049~1047~sprint~clear~cash~dirt~normal
+9~championship~40~Championship Series Race~0~2~1100~1100~1050~1050~full~sunset~cash~dirt~normal
+10~championship~1~Championship Series Race~150000~1~1103~1103~1052~1052~sprint~clear~cash~dirt~normal
+10~championship~2~Championship Series Race~150442~1~1105~1105~1056~1056~sprint~sunset~cash~dirt~normal
+10~championship~3~Championship Series Race~150885~1~1107~1107~1058~1058~sprint~rainy~cash~dirt~normal
+10~championship~4~Championship Series Race~151330~1~1109~1109~1062~1062~sprint~sunset~cash~dirt~normal
+10~championship~5~Championship Series Race~151776~2~1112~1112~1063~1063~full~clear~cash~dirt~normal
+10~championship~6~Championship Series Race~152223~1~1115~1115~1067~1067~sprint~clear~cash~dirt~normal
+10~championship~7~Championship Series Race~152672~1~1116~1116~1070~1070~sprint~sunset~cash~dirt~normal
+10~championship~8~Championship Series Race~153122~1~1117~1117~1074~1074~sprint~clear~cash~dirt~normal
+10~championship~9~Championship Series Race~153573~1~1119~1119~1075~1075~sprint~sunset~cash~dirt~normal
+10~championship~10~Championship Series Race~154026~2~1121~1121~1076~1076~full~rainy~cash~dirt~normal
+10~championship~11~Championship Series Race~154480~1~1122~1122~1077~1077~sprint~sunset~cash~dirt~normal
+10~championship~12~Championship Series Race~154935~1~1124~1124~1079~1079~sprint~clear~cash~dirt~normal
+10~championship~13~Championship Series Race~155392~1~1126~1126~1080~1080~sprint~clear~cash~dirt~normal
+10~championship~14~Championship Series Race~155850~1~1127~1127~1084~1084~sprint~sunset~cash~dirt~normal
+10~championship~15~Championship Series Race~156309~2~1128~1128~1087~1087~full~clear~cash~dirt~normal
+10~championship~16~Championship Series Race~156770~1~1129~1129~1090~1090~sprint~sunset~cash~dirt~normal
+10~championship~17~Championship Series Race~157232~1~1131~1131~1093~1093~sprint~rainy~cash~dirt~normal
+10~championship~18~Championship Series Race~157695~1~1132~1132~1096~1096~sprint~sunset~cash~dirt~normal
+10~championship~19~Championship Series Race~158160~1~1133~1133~1099~1099~sprint~clear~cash~dirt~normal
+10~championship~20~Championship Series Race~158626~2~1134~1134~1100~1100~full~clear~cash~dirt~normal
+10~championship~21~Championship Series Race~159093~1~1137~1137~1104~1104~sprint~sunset~cash~dirt~normal
+10~championship~22~Championship Series Race~159562~1~1138~1138~1106~1106~sprint~clear~cash~dirt~normal
+10~championship~23~Championship Series Race~160032~1~1140~1140~1110~1110~sprint~sunset~cash~dirt~normal
+10~championship~24~Championship Series Race~160504~1~1143~1143~1113~1113~sprint~rainy~cash~dirt~normal
+10~championship~25~Championship Series Race~160977~2~1145~1145~1117~1117~full~sunset~cash~dirt~normal
+10~championship~26~Championship Series Race~161451~1~1148~1148~1109~1109~sprint~clear~cash~dirt~normal
+10~championship~27~Championship Series Race~161927~1~1150~1150~1113~1113~sprint~clear~cash~dirt~normal
+10~championship~28~Championship Series Race~162404~1~1151~1151~1115~1115~sprint~sunset~cash~dirt~normal
+10~championship~29~Championship Series Race~162883~1~1153~1153~1116~1116~sprint~clear~cash~dirt~normal
+10~championship~30~Championship Series Race~163363~2~1155~1155~1119~1119~full~sunset~cash~dirt~normal
+10~championship~31~Championship Series Race~163844~1~1158~1158~1120~1120~sprint~rainy~cash~dirt~normal
+10~championship~32~Championship Series Race~164327~1~1161~1161~1122~1122~sprint~sunset~cash~dirt~normal
+10~championship~33~Championship Series Race~164811~1~1162~1162~1124~1124~sprint~clear~cash~dirt~normal
+10~championship~34~Championship Series Race~165297~1~1164~1164~1127~1127~sprint~clear~cash~dirt~normal
+10~championship~35~Championship Series Race~165784~2~1166~1166~1128~1128~full~sunset~cash~dirt~normal
+10~championship~36~Championship Series Race~166273~1~1168~1168~1131~1131~sprint~clear~cash~dirt~normal
+10~championship~37~Championship Series Race~166763~1~1169~1169~1133~1133~sprint~sunset~cash~dirt~normal
+10~championship~38~Championship Series Race~167254~1~1172~1172~1134~1134~sprint~rainy~cash~dirt~normal
+10~championship~39~Championship Series Race~167747~1~1174~1174~1131~1131~sprint~sunset~cash~dirt~normal
+10~championship~40~Championship Series Race~168241~2~1177~1177~1134~1134~full~clear~cash~dirt~normal
+10~championship~41~Championship Series Race~168737~1~1178~1178~1137~1137~sprint~clear~cash~dirt~normal
+10~championship~42~Championship Series Race~169234~1~1180~1180~1139~1139~sprint~sunset~cash~dirt~normal
+10~championship~43~Championship Series Race~169733~1~1183~1183~1140~1140~sprint~clear~cash~dirt~normal
+10~championship~44~Championship Series Race~170233~1~1186~1186~1145~1145~sprint~sunset~cash~dirt~normal
+10~championship~45~Championship Series Race~170735~2~1189~1189~1146~1146~full~rainy~cash~dirt~normal
+10~championship~46~Championship Series Race~171238~2~1191~1191~1148~1148~full~sunset~cash~dirt~normal
+10~championship~47~Championship Series Race~171743~2~1193~1193~1150~1150~full~clear~cash~dirt~normal
+10~championship~48~Championship Series Race~172249~2~1196~1196~1150~1150~full~clear~cash~dirt~normal
+10~championship~49~Championship Series Race~200000~2~1198~1198~1150~1150~full~sunset~cash~dirt~normal
+10~championship~50~Championship Series Race~250000~5~1200~1200~1150~1150~full~clear~cash~dirt~normal
+101~seasonal~1~Derby~20~1~200~200~150~150~sprint~clear~seasonal~dirt~normal
+101~seasonal~2~Derby~25~1~201~201~151~151~sprint~clear~seasonal~dirt~normal
+101~seasonal~3~Derby~30~1~203~203~152~152~sprint~clear~seasonal~dirt~normal
+101~seasonal~4~Derby~35~1~205~205~154~154~sprint~sunset~seasonal~dirt~normal
+101~seasonal~5~Derby~50~2~207~207~155~155~full~clear~seasonal~dirt~normal
+101~seasonal~6~Derby~25~1~209~209~157~157~sprint~clear~seasonal~dirt~normal
+101~seasonal~7~Derby~30~1~211~211~158~158~sprint~sunset~seasonal~dirt~normal
+101~seasonal~8~Derby~35~1~213~213~160~160~sprint~clear~seasonal~dirt~normal
+101~seasonal~9~Derby~35~1~215~215~161~161~sprint~sunset~seasonal~dirt~normal
+101~seasonal~10~Derby~50~2~217~217~163~163~full~rainy~seasonal~dirt~normal
+101~seasonal~11~Derby~45~1~219~219~164~164~sprint~sunset~seasonal~dirt~normal
+101~seasonal~12~Derby~45~1~221~221~166~166~sprint~clear~seasonal~dirt~normal
+101~seasonal~13~Derby~60~2~223~223~167~167~full~clear~seasonal~dirt~normal
+101~seasonal~14~Derby~25~1~225~225~169~169~sprint~clear~seasonal~dirt~normal
+101~seasonal~15~Derby~35~1~228~228~171~171~sprint~sunset~seasonal~dirt~normal
+101~seasonal~16~Derby~30~1~230~230~172~172~sprint~rainy~seasonal~dirt~normal
+101~seasonal~17~Derby~35~1~232~232~174~174~sprint~sunset~seasonal~dirt~normal
+101~seasonal~18~Derby~65~2~234~234~175~175~full~clear~seasonal~dirt~normal
+101~seasonal~19~Derby~25~1~236~236~177~177~sprint~clear~seasonal~dirt~normal
+101~seasonal~20~Derby~30~1~238~238~179~179~sprint~sunset~seasonal~dirt~normal
+101~seasonal~21~Derby~35~1~241~241~180~180~sprint~clear~seasonal~dirt~normal
+101~seasonal~22~Derby~30~1~243~243~182~182~sprint~sunset~seasonal~dirt~normal
+101~seasonal~23~Derby~75~2~245~245~184~184~full~rainy~seasonal~dirt~normal
+101~seasonal~24~Derby~30~1~248~248~186~186~sprint~sunset~seasonal~dirt~normal
+101~seasonal~25~Derby~100~3~250~250~187~187~full~clear~seasonal~dirt~normal
+101~seasonal~26~Preakness~20~1~252~252~189~189~sprint~clear~seasonal~dirt~normal
+101~seasonal~27~Preakness~25~1~255~255~191~191~sprint~sunset~seasonal~dirt~normal
+101~seasonal~28~Preakness~30~1~257~257~193~193~sprint~rainy~seasonal~dirt~normal
+101~seasonal~29~Preakness~35~1~259~259~194~194~sprint~sunset~seasonal~dirt~normal
+101~seasonal~30~Preakness~50~2~262~262~196~196~full~clear~seasonal~dirt~normal
+101~seasonal~31~Preakness~25~1~264~264~198~198~sprint~clear~seasonal~dirt~normal
+101~seasonal~32~Preakness~30~1~267~267~200~200~sprint~sunset~seasonal~dirt~normal
+101~seasonal~33~Preakness~35~1~269~269~202~202~sprint~clear~seasonal~dirt~normal
+101~seasonal~34~Preakness~35~1~272~272~204~204~sprint~sunset~seasonal~dirt~normal
+101~seasonal~35~Preakness~50~2~275~275~206~206~full~rainy~seasonal~dirt~normal
+101~seasonal~36~Preakness~45~1~277~277~208~208~sprint~sunset~seasonal~dirt~normal
+101~seasonal~37~Preakness~45~1~280~280~210~210~sprint~clear~seasonal~dirt~normal
+101~seasonal~38~Preakness~60~2~282~282~212~212~full~clear~seasonal~dirt~normal
+101~seasonal~39~Preakness~25~1~285~285~214~214~sprint~clear~seasonal~dirt~normal
+101~seasonal~40~Preakness~35~1~288~288~216~216~sprint~sunset~seasonal~dirt~normal
+101~seasonal~41~Preakness~30~1~290~290~218~218~sprint~rainy~seasonal~dirt~normal
+101~seasonal~42~Preakness~35~1~293~293~220~220~sprint~sunset~seasonal~dirt~normal
+101~seasonal~43~Preakness~65~2~296~296~222~222~full~clear~seasonal~dirt~normal
+101~seasonal~44~Preakness~25~1~299~299~224~224~sprint~clear~seasonal~dirt~normal
+101~seasonal~45~Preakness~30~1~302~302~226~226~sprint~sunset~seasonal~dirt~normal
+101~seasonal~46~Preakness~35~1~304~304~228~228~sprint~clear~seasonal~dirt~normal
+101~seasonal~47~Preakness~30~1~307~307~230~230~sprint~sunset~seasonal~dirt~normal
+101~seasonal~48~Preakness~75~2~310~310~232~232~full~rainy~seasonal~dirt~normal
+101~seasonal~49~Preakness~30~1~313~313~235~235~sprint~sunset~seasonal~dirt~normal
+101~seasonal~50~Preakness~100~3~316~316~237~237~full~clear~seasonal~dirt~normal
+101~seasonal~51~Belmont~20~1~319~319~239~239~sprint~clear~seasonal~dirt~normal
+101~seasonal~52~Belmont~25~1~322~322~241~241~sprint~sunset~seasonal~dirt~normal
+101~seasonal~53~Belmont~30~1~325~325~244~244~sprint~rainy~seasonal~dirt~normal
+101~seasonal~54~Belmont~35~1~328~328~246~246~sprint~sunset~seasonal~dirt~normal
+101~seasonal~55~Belmont~50~2~331~331~248~248~full~clear~seasonal~dirt~normal
+101~seasonal~56~Belmont~25~1~334~334~251~251~sprint~clear~seasonal~dirt~normal
+101~seasonal~57~Belmont~30~1~337~337~253~253~sprint~sunset~seasonal~dirt~normal
+101~seasonal~58~Belmont~35~1~341~341~255~255~sprint~clear~seasonal~dirt~normal
+101~seasonal~59~Belmont~35~1~344~344~258~258~sprint~sunset~seasonal~dirt~normal
+101~seasonal~60~Belmont~50~2~347~347~260~260~full~rainy~seasonal~dirt~normal
+101~seasonal~61~Belmont~45~1~350~350~263~263~sprint~sunset~seasonal~dirt~normal
+101~seasonal~62~Belmont~45~1~354~354~265~265~sprint~clear~seasonal~dirt~normal
+101~seasonal~63~Belmont~60~2~357~357~268~268~full~clear~seasonal~dirt~normal
+101~seasonal~64~Belmont~25~1~360~360~270~270~sprint~clear~seasonal~dirt~normal
+101~seasonal~65~Belmont~35~1~364~364~273~273~sprint~sunset~seasonal~dirt~normal
+101~seasonal~66~Belmont~30~1~367~367~275~275~sprint~rainy~seasonal~dirt~normal
+101~seasonal~67~Belmont~35~1~371~371~278~278~sprint~sunset~seasonal~dirt~normal
+101~seasonal~68~Belmont~65~2~374~374~280~280~full~clear~seasonal~dirt~normal
+101~seasonal~69~Belmont~25~1~378~378~283~283~sprint~clear~seasonal~dirt~normal
+101~seasonal~70~Belmont~30~1~381~381~286~286~sprint~sunset~seasonal~dirt~normal
+101~seasonal~71~Belmont~35~1~385~385~288~288~sprint~clear~seasonal~dirt~normal
+101~seasonal~72~Belmont~30~1~388~388~291~291~sprint~sunset~seasonal~dirt~normal
+101~seasonal~73~Belmont~75~2~392~392~294~294~full~rainy~seasonal~dirt~normal
+101~seasonal~74~Belmont~30~1~396~396~297~297~sprint~sunset~seasonal~dirt~normal
+101~seasonal~75~Belmont~100~3~400~400~300~300~full~clear~seasonal~dirt~normal
+101~training~1~Derby Training~0~1~200~200~125~125~sprint~clear~seasonal~dirt~normal
+101~training~2~Training Preakness~0~1~250~250~188~188~sprint~clear~seasonal~dirt~normal
+101~training~3~Training Belmont~0~1~316~316~237~237~sprint~clear~seasonal~dirt~normal
