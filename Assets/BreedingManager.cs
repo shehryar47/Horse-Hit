@@ -1,22 +1,22 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using MalbersAnimations.Selector;
-using UnityEngine.UI;
-using Unity.VisualScripting;
 using JetBrains.Annotations;
+using MalbersAnimations.Selector;
+using System.Collections;
+using UnityEngine;
+using UnityEngine.UI;
 
 public class BreedingManager : MonoBehaviour
 {
+
+
     public static BreedingManager BreedingManagerInstance;
-    public Texture2D[] textures;
-    public GameObject Male, Female,Foal;
-    public Text MaleText, FemaleText,timer;
-    public Button SelectBreedBtn, StartBreedBtn,GoToStableBtn,CheclFoalBtn;
+    public Material[] AllMaterial;
+    public GameObject Male, Female, Foal;
+    public Text MaleText, FemaleText, timer;
+    public Button SelectBreedBtn, StartBreedBtn, GoToStableBtn, CheclFoalBtn;
     public SelectorController selectorController;
-    public GameObject BreedCam,Selector,TransitionPanel;
+    public GameObject BreedCam, Selector, TransitionPanel, stats;
     public int breedTime;
-    public Texture MaleParentTex, FemaleParentTex;
+    public Material MaleParentMat, FemaleParentMat;
     public MItem MaleParentCheck, FemaleParentCheck;
     void Start()
     {
@@ -26,14 +26,19 @@ public class BreedingManager : MonoBehaviour
         }
         else
         {
-            BreedingManagerInstance = this; 
+            BreedingManagerInstance = this;
             DontDestroyOnLoad(gameObject);
         }
+        AssignButtons();
+    }
+
+    private void AssignButtons()
+    {
         timer.text = breedTime.ToString();
         SelectBreedBtn.onClick.AddListener(SelectedForBreed);
         GoToStableBtn.onClick.AddListener(GoToStable);
         StartBreedBtn.onClick.AddListener(StartBreed);
-        CheclFoalBtn.onClick.AddListener(CheckFoal);    
+        CheclFoalBtn.onClick.AddListener(FoalBirth);
     }
 
 
@@ -44,34 +49,44 @@ public class BreedingManager : MonoBehaviour
         {
             MaleParentCheck = selectorController.CurrentItem;
             MaleText.text = MaleParentCheck.GetComponent<Horses>().horse.name;
-            MaleParentTex = MaleParentCheck.GetComponentInChildren<Renderer>().material.mainTexture;
-            Male.GetComponentInChildren<Renderer>().material.mainTexture = MaleParentTex; 
-            
+            MaleParentMat = MaleParentCheck.GetComponent<Horses>().horse.material;
+            Male.transform.ChildContainsName("hBody").GetComponent<SkinnedMeshRenderer>().material = MaleParentMat;
+
         }
         else if (selectorController.CurrentItem.GetComponent<Horses>().horse.gender == HorseMaker.Gender.female)
         {
-            FemaleParentCheck= selectorController.CurrentItem;
+            FemaleParentCheck = selectorController.CurrentItem;
             FemaleText.text = FemaleParentCheck.GetComponent<Horses>().horse.name;
-            FemaleParentTex = MaleParentCheck.GetComponentInChildren<Renderer>().material.mainTexture;
-            Female.GetComponentInChildren<Renderer>().material.mainTexture = FemaleParentTex;
+            FemaleParentMat = FemaleParentCheck.GetComponent<Horses>().horse.material;
+            Female.transform.ChildContainsName("hBody").GetComponent<SkinnedMeshRenderer>().material = FemaleParentMat;
         }
     }
     #endregion
 
     public void GoToStable()
     {
-        if(MaleParentCheck != null&&FemaleParentCheck!=null)
+        if(MaleParentCheck!=null && FemaleParentCheck !=null)
         {
-
+            stats.SetActive(false);
+            BreedCam.SetActive(true);
+            Selector.SetActive(false);
+            StartBreedBtn.gameObject.SetActive(true);
         }
-        
+        else
+        {
+            stats.SetActive(false);
+            Selector.SetActive(false);
+            UIManagerMain.instance.FoalCanvas.SetActive(true);
+            FoalManager.FoalManagerInstance.FoalCamera.gameObject.SetActive(true);
+        }
     }
 
     public void StartBreed()
     {
+        StartBreedBtn.gameObject.SetActive(false);
         timer.gameObject.SetActive(true);
         StartCoroutine(Timer());
-        Foal.GetComponentInChildren<Renderer>().material.mainTexture = MaleParentTex;
+        
     }
 
     IEnumerator Timer()
@@ -79,15 +94,17 @@ public class BreedingManager : MonoBehaviour
         while (breedTime > 0)
         {
             yield return new WaitForSeconds(1);
-            breedTime--;  
-            timer.text= breedTime.ToString();   
+            breedTime--;
+            timer.text = breedTime.ToString();
         }
         TransitionPanel.SetActive(true);
+        timer.gameObject.SetActive(false); 
+        
         //Foal.SetActive(true);
 
     }
 
-    public void CheckFoal()
+    public void FoalBirth()
     {
 
     }

@@ -7,9 +7,10 @@ public class HorseMaker
 {
     public enum Gender {male, female};
     public string name;
-    public int stamina;
-    public int speed;
-    public Texture2D texture;
+    public float stamina;
+    public float speed;
+    public int MaterialId;
+    public Material material;
     public Gender gender;
 
     /*public void SaveHorse(int gender=0)

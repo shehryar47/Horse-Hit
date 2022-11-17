@@ -46,7 +46,7 @@ namespace MalbersAnimations.Selector
         }
         private void Start()
         {
-             p = PlayerPrefs.GetInt("items");
+             /*p = PlayerPrefs.GetInt("items");
             Debug.Log("p == " + p);
             for(int i = 0; i < p; i++)
             {
@@ -57,7 +57,7 @@ namespace MalbersAnimations.Selector
                     Purchasebutton.SetActive(false);
                 }
              
-            }
+            }*/
          /*   if(!ItemSelected.Locked)
             {
                 Purchasebutton.SetActive(true);
@@ -93,7 +93,7 @@ namespace MalbersAnimations.Selector
                 _Amount = ItemSelected.Amount.ToString();         //get the Item's Value
 
                 //PriseAmount = Convert.ToInt32(_Amount);
-                print("PRISE AMOUNT AA " + _Amount);
+               // print("PRISE AMOUNT AA " + _Amount);
                 PriseAmount = int.Parse(_Amount);
                 //print("PRISE AMOUNT AAA " + PriseAmount);
 

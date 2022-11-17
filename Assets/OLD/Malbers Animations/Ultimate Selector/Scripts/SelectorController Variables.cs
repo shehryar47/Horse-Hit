@@ -178,6 +178,15 @@ namespace MalbersAnimations.Selector
                 switch (S_Editor.RadialAxis)
                 {
                     case RadialAxis.Up:
+                        break;
+                    case RadialAxis.Right:
+                        break;
+                    case RadialAxis.Forward:
+                        break;
+                }
+                switch (S_Editor.RadialAxis)
+                {
+                    case RadialAxis.Up:
                         return transform.InverseTransformDirection(transform.up);
                     case RadialAxis.Right:
                         return transform.InverseTransformDirection(-transform.right);
